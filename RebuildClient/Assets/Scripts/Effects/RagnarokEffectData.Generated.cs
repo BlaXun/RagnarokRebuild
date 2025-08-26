@@ -74,6 +74,7 @@ namespace Assets.Scripts.Effects
 		BlueWaterfallEffect,
 		DiscoLights,
 		MapPillar,
+		FreezingSpearHit
 	}
 
 	public enum PrimitiveType

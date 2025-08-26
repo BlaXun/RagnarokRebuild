@@ -118,3 +118,9 @@ ImpositioManus = []
 Aspersio = [["AquaBenedicta",1],["ImpositioManus",3]]
 Sanctuary = [["Heal", 1]]
 SafetyWall = [["Aspersio", 4],["Sanctuary", 3]]
+
+[Ninja]
+JobRank = 1
+Extends = "Novice"
+[Ninja.SkillTree]
+FreezingSpear = []
