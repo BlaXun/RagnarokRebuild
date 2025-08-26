@@ -41,6 +41,7 @@ namespace Assets.Scripts.Effects
 		FrostDiverHit,
 		FrostDiverTrail,
 		MagnumBreak,
+		FreezingSpearHit,
 		Provoke,
 		Ruwach,
 		SafetyWall,
@@ -74,7 +75,6 @@ namespace Assets.Scripts.Effects
 		BlueWaterfallEffect,
 		DiscoLights,
 		MapPillar,
-		FreezingSpearHit
 	}
 
 	public enum PrimitiveType
@@ -142,6 +142,7 @@ namespace Assets.Scripts.Effects
 			effectHandlers.Add(EffectType.FrostDiverHit, new Assets.Scripts.Effects.EffectHandlers.Skills.FrostDiverHitEffect());
 			effectHandlers.Add(EffectType.FrostDiverTrail, new Assets.Scripts.Effects.EffectHandlers.Skills.FrostDiverTrailEffect());
 			effectHandlers.Add(EffectType.MagnumBreak, new Assets.Scripts.Effects.EffectHandlers.Skills.MagnumBreakEffect());
+			effectHandlers.Add(EffectType.FreezingSpearHit, new Assets.Scripts.Effects.EffectHandlers.Skills.FreezingSpearHitEffect());
 			effectHandlers.Add(EffectType.Provoke, new Assets.Scripts.Effects.EffectHandlers.Skills.ProvokeEffect());
 			effectHandlers.Add(EffectType.Ruwach, new Assets.Scripts.Effects.EffectHandlers.Skills.RuwachEffect());
 			effectHandlers.Add(EffectType.SafetyWall, new Assets.Scripts.Effects.EffectHandlers.Skills.SafetyWallEffect());

@@ -901,6 +901,9 @@ namespace Assets.Scripts.Sprites
                 case NpcEffectType.AnkleSnare:
                     AttachPrefabToControllable(control, "Assets/Effects/Prefabs/AnkleSnare.prefab");
                     break;
+                default:
+                    Debug.LogError($"ClientDataLoader.InstantiateEffect: Tried to instantiate effect that is not handled!");
+                    break;
             }
 
             return control;

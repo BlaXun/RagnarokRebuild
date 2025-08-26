@@ -16,7 +16,7 @@ using RebuildSharedData.Enum.EntityStats;
  */
 namespace Assets.Scripts.SkillHandlers.Handlers
 {
-    [SkillHandler(CharacterSkill.FreezingSpear, true)]
+    [SkillHandler(CharacterSkill.FreezingSpear)]
     public class FreezingSpearHandler : SkillHandlerBase
     {
         public override void OnHitEffect(ServerControllable target, ref AttackResultData attack)
