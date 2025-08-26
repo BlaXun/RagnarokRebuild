@@ -248,7 +248,13 @@ Attempts to take an additional item from a monster. The success rate varies base
 Success rate: [4 + SkillLevel * 6]% chance.
 
 ::BackSlide
-Immediately jump backwards 5 tiles, based on the direction you're currently facing.
+Immediately jump backwards 5 tiles, baRagased on the direction you're currently facing.
+
+//----------------Ninja-------------------
+
+::FreezingSpear
+Summons icy spears to strike a single target multiple times, where each spear will inflict 70% Water property magic damage.
+Cast Time: [0.7 * SkillLevel] seconds.
 
 //----------------Merchant-------------------
 

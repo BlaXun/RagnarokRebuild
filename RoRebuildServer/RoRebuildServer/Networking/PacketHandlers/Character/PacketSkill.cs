@@ -148,7 +148,6 @@ namespace RoRebuildServer.Networking.PacketHandlers.Character
             Debug.Assert(connection.Player != null, "connection.Player != null");
             Debug.Assert(connection.Character != null);
 
-
             var caster = connection.Character;
             var targetEntity = World.Instance.GetEntityById(msg.ReadInt32());
             if(targetEntity.Type == EntityType.Npc || !targetEntity.TryGet<CombatEntity>(out var target) || caster == null)
@@ -167,6 +166,7 @@ namespace RoRebuildServer.Networking.PacketHandlers.Character
 
             var isAlly = target.IsValidAlly(caster.CombatEntity);
             var targetType = SkillHandler.GetSkillAttributes(skill).SkillTarget;
+
             var isValidTarget = targetType == SkillTarget.Any;
             if (isAlly && (targetType == SkillTarget.Ally || targetType == SkillTarget.Any))
                 isValidTarget = true;

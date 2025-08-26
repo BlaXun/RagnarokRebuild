@@ -9,6 +9,7 @@ using RoRebuildServer.EntityComponents.Character;
 using RoRebuildServer.Networking;
 using RoRebuildServer.Simulation.Skills.SkillHandlers;
 using RoRebuildServer.Simulation.Util;
+using RoRebuildServer.Logging;
 
 namespace RoRebuildServer.Simulation.Skills;
 
@@ -65,10 +66,10 @@ public static class SkillHandler
             monsterSkillAttributes[(int)skill] = attr;
         }
 
-        for (var i = 0; i < count; i++)
-        {
-            if (handlers[i] == null)
-            {
+        for (var i = 0; i < count; i++) {
+
+            if (handlers[i] == null) {
+                ServerLogger.LogWarning($"Tried to load a skill handler that was not implemented '{i}'.");
                 handlers[i] = new SkillHandlerGenericCast()
                 {
                     Skill = (CharacterSkill)i,
