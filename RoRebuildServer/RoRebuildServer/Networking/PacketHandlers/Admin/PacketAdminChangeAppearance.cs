@@ -47,7 +47,8 @@ public class PacketAdminChangeAppearance : IClientPacketHandler
             case 3:
                 if (!p.IsAdmin)
                     return;
-                if (val >= 0 && val <= 20)
+                int HIGHEST_AVAILABLE_JOB_ID = 21; // This will include ninja
+                if (val >= 0 && val <= HIGHEST_AVAILABLE_JOB_ID)
                     p.ChangeJob(val);
                 else
                     p.ChangeJob(GameRandom.Next(0, 6));
