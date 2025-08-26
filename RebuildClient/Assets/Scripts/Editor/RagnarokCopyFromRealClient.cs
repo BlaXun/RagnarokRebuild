@@ -96,6 +96,12 @@ namespace Assets.Editor
                 UpdateSpriteName);
             CopyFolder(Path.Combine(dataDir, "sprite/방패/슈퍼노비스"), "Assets/Sprites/Shields/SuperNovice/", false, true,
                 "*", UpdateSpriteName);
+
+            // Ninja
+            CopyFolder(Path.Combine(dataDir, "sprite/인간족/닌자"), "Assets/Sprites/Weapons/Ninja/", false, true, "*",
+                UpdateSpriteName);
+            CopyFolder(Path.Combine(dataDir, "sprite/방패/닌자"), "Assets/Sprites/Shields/Ninja/", false, true, "*",
+                UpdateSpriteName);
         }
 
         [MenuItem("Ragnarok/Copy data from client data folder", priority = 1)]

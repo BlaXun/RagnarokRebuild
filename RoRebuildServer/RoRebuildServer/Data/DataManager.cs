@@ -190,7 +190,7 @@ public static class DataManager
         monsterAiList = loader.LoadAiStateMachines();
         ExpChart = loader.LoadExpChart();
         EffectIdForName = loader.LoadEffectIds();
-        JobInfo = loader.LoadJobs();
+        JobInfo = loader.LoadJobs();        
         JobIdLookup = loader.GetJobIdLookup(JobInfo);
         MvpMonsterCodes = loader.LoadMvpList();
         SkillData = loader.LoadSkillData();

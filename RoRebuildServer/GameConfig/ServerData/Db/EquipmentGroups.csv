@@ -81,3 +81,4 @@ Trans2ndJob,"Transcended Second Jobs",KnightHigh,PriestHigh,WizardHigh,Blacksmit
 Trans1stJob,"Transcended First Job",SwordsmanHigh,MerchantHigh,MageHigh,ArcherHighGroup,AcolyteHigh,ThiefHigh
 AllJobs,"All Jobs",Novice,Swordsman,Merchant,Mage,ArcherGroup,Acolyte,Thief,Taekwon,StarGladiator,SoulLinker,Ninja,Gunslinger
 AllExceptNovice,"All Jobs Excluding Novice",Swordsman,Merchant,Mage,ArcherGroup,Acolyte,Thief,Taekwon,StarGladiator,SoulLinker,Ninja,Gunslinger
+Ninja,"Ninja",Ninja

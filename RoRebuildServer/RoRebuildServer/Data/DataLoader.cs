@@ -203,15 +203,13 @@ internal class DataLoader
         return effects;
     }
 
-    public ReadOnlyDictionary<int, JobInfo> LoadJobs()
-    {
-        var jobs = new Dictionary<int, JobInfo>();
+    public ReadOnlyDictionary<int, JobInfo> LoadJobs() {
 
+        var jobs = new Dictionary<int, JobInfo>();
         var timings = new Dictionary<string, float[]>();
 
         var timingEntries = File.ReadAllLines(Path.Combine(ServerConfig.DataConfig.DataPath, @"Db/WeaponAttackTiming.csv"), Encoding.UTF8);
-        foreach (var timingEntry in timingEntries.Skip(1))
-        {
+        foreach (var timingEntry in timingEntries.Skip(1)) {
             var s = timingEntry.Split(",");
             var cName = s[0];
             var timing = s.Skip(1).Select(f => float.Parse(f, CultureInfo.InvariantCulture)).ToArray();
@@ -231,12 +229,12 @@ internal class DataLoader
             else
                 timing = timings["NoClass"];
 
-            var job = new JobInfo()
-            {
+            var job = new JobInfo() {
                 Id = entry.Id,
                 Class = entry.Class,
                 WeaponTimings = timing
             };
+
             jobs.Add(job.Id, job);
         }
         return jobs.AsReadOnly();
@@ -245,8 +243,7 @@ internal class DataLoader
     public ReadOnlyDictionary<string, int> GetJobIdLookup(ReadOnlyDictionary<int, JobInfo> jobs)
     {
         var lookup = new Dictionary<string, int>();
-        foreach (var j in jobs)
-        {
+        foreach (var j in jobs) {
             lookup.Add(j.Value.Class, j.Key);
         }
 
@@ -773,28 +770,27 @@ internal class DataLoader
         using var tr = new StreamReader(Path.Combine(ServerConfig.DataConfig.DataPath, @"Db/JobStatBonuses.csv")) as TextReader;
         using var csv = new CsvReader(tr, CultureInfo.InvariantCulture);
 
-
+        int AMOUNT_OF_STATS = 6;
+        int MAX_JOB_LEVELS = 70;
         var entries = csv.GetRecords<dynamic>().ToList();
 
-        Span<int> tempTable = stackalloc int[6];
+        Span<int> tempTable = stackalloc int[AMOUNT_OF_STATS];
 
         int maxJobs = entries.Count;
-
-        var fullBonusTable = new int[maxJobs * 70 * 6]; //70 levels for maxJobs jobs with 6 stats each level
-
+        
+        var fullBonusTable = new int[maxJobs * MAX_JOB_LEVELS * AMOUNT_OF_STATS]; //70 levels for maxJobs jobs with 6 stats each level
         foreach (var entry in entries)
         {
             tempTable.Clear();
             if (entry is IDictionary<string, object> obj)
             {
                 var jobName = (string)obj["Job"];
-                if (!DataManager.JobIdLookup.TryGetValue(jobName, out var jobId))
-                {
+                if (!DataManager.JobIdLookup.TryGetValue(jobName, out var jobId)) {
                     ServerLogger.LogWarning($"Job {jobName} specified in JobStatBonuses.csv could not be found.");
                     continue;
                 }
 
-                for (var i = 1; i < 71; i++)
+                for (var i = 1; i <= MAX_JOB_LEVELS; i++)
                 {
                     var stat = (string)obj[i.ToString()];
                     switch (stat)
@@ -809,8 +805,8 @@ internal class DataLoader
                         default: throw new Exception($"Unexpected stat value {stat} when loading job {jobName} on JobStatBonuses.csv!");
                     }
 
-                    var index = (jobId * 70 * 6) + (i - 1) * 6;
-                    var target = new Span<int>(fullBonusTable, index, 6);
+                    var index = (jobId * MAX_JOB_LEVELS * AMOUNT_OF_STATS) + (i - 1) * AMOUNT_OF_STATS;
+                    var target = new Span<int>(fullBonusTable, index, AMOUNT_OF_STATS);
                     tempTable.CopyTo(target);
                 }
             }
@@ -986,8 +982,7 @@ internal class DataLoader
         return obj;
     }
 
-    public Dictionary<string, string> LoadServerConfig()
-    {
+    public Dictionary<string, string> LoadServerConfig() {
         var config = new Dictionary<string, string>();
 
         using var tr = new StreamReader(Path.Combine(ServerConfig.DataConfig.DataPath, @"Db/ServerSettings.csv")) as TextReader;
@@ -995,8 +990,7 @@ internal class DataLoader
 
         var entries = csv.GetRecords<CsvServerConfig>().ToList();
 
-        foreach (var entry in entries)
-        {
+        foreach (var entry in entries) {
             config.Add(entry.Key, entry.Value);
         }
 
@@ -1087,7 +1081,6 @@ internal class DataLoader
 
     public void LoadMonsterSpawnMinions()
     {
-
         using var tr = new StreamReader(Path.Combine(ServerConfig.DataConfig.DataPath, @"Db/SpawnMinionTable.csv")) as TextReader;
         using var csv = new CsvReader(tr, CultureInfo.InvariantCulture);
 
