@@ -12,6 +12,7 @@ using RoRebuildServer.Networking;
 using RoRebuildServer.Simulation;
 using RoRebuildServer.Simulation.Pathfinding;
 using RoRebuildServer.Simulation.Util;
+using RoRebuildServer.EntitySystem;
 
 namespace RoRebuildServer.EntityComponents;
 
@@ -389,6 +390,45 @@ public class WorldObject : IEntityAutoReset
         return count;
     }
 
+    /// <summary>
+    /// Ends all events of the given type for the worldObject. 
+    /// Does not consider the map the worldObject is on right now but will
+    /// just end all of the given event among all maps.
+    /// 
+    /// This can be used for things such as removing all blaze shield fire fields when the user
+    /// casts another one.
+    /// </summary>
+    /// <param name="eventType">The name of the event which should be ended</param>
+    /// <returns>Wether any events were removed</returns>
+    public bool EndEventsOfType(string eventType)
+    {
+        if (Events == null)
+            return false;
+
+        var hasRemove = false;
+
+        for (var i = 0; i < Events.Count; i++)
+        {
+            if (Events[i].TryGet<Npc>(out var npc) && npc.EventType == eventType)
+            {
+                npc.EndEvent();
+                Events.SwapFromBack(i);
+                i--;
+                hasRemove = true;
+            }
+        }
+
+        Events.ClearInactive();
+        if (Events.Count <= 0)
+        {
+            Events.Clear();
+            EntityListPool.Return(Events);
+            Events = null;
+        }
+
+        return hasRemove;
+    }
+
     public void OnDeathCleanupEvents()
     {
         if (Events == null)
@@ -414,8 +454,8 @@ public class WorldObject : IEntityAutoReset
         }
 
         Events.ClearInactive();
-        
-        if(Events.Count <= 0)
+
+        if (Events.Count <= 0)
         {
             Events.Clear();
             EntityListPool.Return(Events);
@@ -495,6 +535,11 @@ public class WorldObject : IEntityAutoReset
         }
     }
 
+    /**
+     * Prevents the instance from moving for the given amount of delay
+     * Attention! This will also ignore effects such as endure and will also
+     * work on bosses!
+     */
     public bool AddMoveLockTime(float delay, bool force = false)
     {
         Debug.Assert(Map != null);
@@ -504,15 +549,15 @@ public class WorldObject : IEntityAutoReset
 
         if (MoveLockTime + 0.04f > Time.ElapsedTimeFloat && !force)
             return false;
-        
+
         if (!InMoveLock && State == CharacterState.Moving)
             StopMovingImmediately(false); //tell the client we stop, but we don't want to leave move state
 
-        if(!force || Time.ElapsedTimeFloat + delay > MoveLockTime)
+        if (!force || Time.ElapsedTimeFloat + delay > MoveLockTime)
             MoveLockTime = Time.ElapsedTimeFloat + delay;
         InMoveLock = true;
 
-        if(Type == CharacterType.Monster)
+        if (Type == CharacterType.Monster)
             Monster.AdjustAiUpdateIfShorter(MoveLockTime);
 
         return true;
@@ -530,11 +575,15 @@ public class WorldObject : IEntityAutoReset
             player.HeadFacing = HeadFacing.Center; //don't need to send this to client, they will assume it resets
     }
 
+    /**
+     * Returns wether the instance is currently able to move
+     * Takes the different states (Sitting, Dead, ..) into account for this
+     */
     public bool CanMove()
     {
         if (State == CharacterState.Sitting || State == CharacterState.Dead)
             return false;
-        
+
         if (MoveSpeed <= 0)
             return false;
 
@@ -542,7 +591,7 @@ public class WorldObject : IEntityAutoReset
         {
             if ((CombatEntity.BodyState & BodyStateFlags.MoveLocked) > 0)
                 return false;
-            if(CombatEntity.GetStat(CharacterStat.MoveSpeedBonus) < -100)
+            if (CombatEntity.GetStat(CharacterStat.MoveSpeedBonus) < -100)
                 return false;
         }
 

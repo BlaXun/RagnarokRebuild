@@ -152,7 +152,6 @@ namespace Assets.Scripts.SkillHandlers
 			handlers[135] = new DefaultSkillHandler();
 			handlers[136] = new DefaultSkillHandler();
 			handlers[137] = new DefaultSkillHandler();
-			handlers[138] = new Assets.Scripts.SkillHandlers.Handlers.FreezingSpearHandler();
 			handlers[139] = new Assets.Scripts.SkillHandlers.Handlers.DemonstrationHandler();
 			handlers[139].ExecuteWithoutSource = true;
 			handlers[140] = new Assets.Scripts.SkillHandlers.Handlers.FireAttackHandler();
