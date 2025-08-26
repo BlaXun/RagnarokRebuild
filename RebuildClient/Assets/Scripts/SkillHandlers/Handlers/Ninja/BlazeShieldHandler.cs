@@ -30,10 +30,15 @@ namespace Assets.Scripts.SkillHandlers.Handlers
             if(target != Vector2Int.zero)
                 CastTargetCircle.Create(src.IsAlly, targetCell, 1, castTime);
         }
-        
+
         public override void ExecuteSkillGroundTargeted(ServerControllable src, ref AttackResultData attack)
         {
             src.PerformSkillMotion();
+
+            src.SpriteAnimator.PauseAnimation();
+            src.SpriteAnimator.OverrideCurrentFrame(1);
+            src.SpriteAnimator.PauseAnimation();
+
             AudioManager.Instance.OneShotSoundEffect(src.Id, $"ef_firewall.ogg", attack.TargetAoE.ToWorldPosition());
         }
         
