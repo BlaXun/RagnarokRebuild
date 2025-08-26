@@ -1505,6 +1505,13 @@ namespace Assets.Scripts
         }
         
         
+        /// <summary>
+        /// Creates the given visual effect at the given position allowing setting a scale-factor and facing
+        /// </summary>
+        /// <param name="effectName">The name/identifier of the effect to be used (Check Effects.csv)</param>
+        /// <param name="pos">The position where the effect should disappear</param>
+        /// <param name="scale">The scaling factor</param>
+        /// <param name="facing">The facing direction of the effect</param>
         public void CreateEffectAtLocation(string effectName, Vector3 pos, Vector3 scale, int facing)
         {
             var effect = EffectIdLookup[effectName];
@@ -1548,6 +1555,12 @@ namespace Assets.Scripts
             };
         }
 
+        /// <summary>
+        /// Create a visual effect at the given position
+        /// </summary>
+        /// <param name="effect">The id of the effect to be used (Check Effects.csv)</param>
+        /// <param name="pos">The position where the effect should be shown</param>
+        /// <param name="facing">The facing direction of the effect</param>
         public void CreateEffect(int effect, Vector3 pos, int facing)
         {
             if (!EffectList.TryGetValue(effect, out var asset))

@@ -52,7 +52,7 @@ namespace Assets.Scripts.SkillHandlers.Handlers
         }
         
         public override void OnHitEffect(ServerControllable target, ref AttackResultData attack) {
-            CameraFollower.Instance.AttachEffectToEntity("firehit1", target.gameObject, target.Id);
+            CameraFollower.Instance.CreateEffectAtLocation("firehit1",target.RealPosition, new Vector3(0.5f,0.5f,0.5f), 0);
         }
     }
 }
