@@ -250,6 +250,12 @@ Success rate: [4 + SkillLevel * 6]% chance.
 ::BackSlide
 Immediately jump backwards 5 tiles, based on the direction you're currently facing.
 
+//----------------Ninja-------------------
+
+::BlazeShield
+Summons a blazing storm around the caster that will deliver multiple strikes to enemies within its area of effect, each inflicting 50% Fire property magic damage. The next cast of this skill will override the previous one if it's still active. Each cast consumes a Flame Stone.
+Cast Time: [6.0 - (0.5 * SkillLevel)] seconds.
+
 //----------------Merchant-------------------
 
 ::EnlargeWeightLimit

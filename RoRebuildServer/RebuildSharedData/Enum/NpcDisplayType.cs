@@ -23,6 +23,9 @@ public enum NpcEffectType : byte
     MagnusExorcismus,
     AnkleSnare,
 
+    // Ninja
+    BlazeShield,
+
     //custom
     LightOrb,
 }

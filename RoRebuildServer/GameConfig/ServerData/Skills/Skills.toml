@@ -796,6 +796,18 @@ SpCost = [10,10,10,10,10]
 [MaximizePower]
 
 #----------------------------------
+# Ninja
+#----------------------------------
+
+[BlazeShield]
+Name = "Blaze Shield"
+Icon = "nj_bakuenryu"
+Target = "Self"
+MaxLevel = 10
+SpCost = [25]
+AdjustableLevel = false
+
+#----------------------------------
 # Other skills
 #----------------------------------
 
