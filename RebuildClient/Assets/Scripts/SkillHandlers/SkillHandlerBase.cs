@@ -11,8 +11,11 @@ namespace Assets.Scripts.SkillHandlers
         public virtual bool DoesAttackTakeWeaponSound => true;
         public virtual bool ShowSkillAttackName => true;
         public virtual int GetSkillAoESize(ServerControllable src, int lvl) => 5;
+        
+        // Casting on a target
         public virtual void StartSkillCasting(ServerControllable src, ServerControllable target, int lvl, float castTime) {}
 
+        // Getting into casting mode but that giant targeting circle appears
         public virtual void StartSkillCasting(ServerControllable src, Vector2Int target, int lvl, float castTime)
         {
             var targetCell = CameraFollower.Instance.WalkProvider.GetWorldPositionForTile(target);

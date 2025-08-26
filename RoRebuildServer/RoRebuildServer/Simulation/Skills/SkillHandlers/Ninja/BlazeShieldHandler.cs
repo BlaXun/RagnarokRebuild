@@ -205,8 +205,6 @@ public class BlazeShieldObjectEvent : NpcBehaviorBase {
 
             // The higher the stronger the hitlock. But 0.05f seem to be the sweetspot?
             var hitLock = 0.05f;
-            // Doddler claims its 100ms
-            //var hitLock = 0.1f;
             target.SetSkillDamageCooldown(CharacterSkill.BlazeShield, hitLock); //make it so they can't get hit by blazeshield again for 100ms
             src.ExecuteCombatResult(res, false);
 

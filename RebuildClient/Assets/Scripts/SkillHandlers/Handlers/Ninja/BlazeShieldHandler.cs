@@ -15,6 +15,11 @@ namespace Assets.Scripts.SkillHandlers.Handlers
         public override void StartSkillCasting(ServerControllable src, ServerControllable target, int lvl, float castTime)
         {
             HoldStandbyMotionForCast(src, castTime);
+            
+            // This will make the ninja kneel down while casting ...not quite what we want though.. we want the kneeling on stop
+            src.SpriteAnimator.OverrideCurrentFrame(2);
+            src.SpriteAnimator.PauseAnimation();
+            
             src.AttachEffect(CastEffect.Create(castTime, src.gameObject, AttackElement.Fire));
             
             if(target != null)
@@ -24,6 +29,11 @@ namespace Assets.Scripts.SkillHandlers.Handlers
         public override void StartSkillCasting(ServerControllable src, Vector2Int target, int lvl, float castTime)
         {
             HoldStandbyMotionForCast(src, castTime);
+            
+            // This will make the ninja kneel down while casting ...not quite what we want though.. we want the kneeling on stop
+            src.SpriteAnimator.OverrideCurrentFrame(2);
+            src.SpriteAnimator.PauseAnimation();
+            
             src.AttachEffect(CastEffect.Create(castTime, src.gameObject, AttackElement.Fire));
             
             var targetCell = CameraFollower.Instance.WalkProvider.GetWorldPositionForTile(target);
@@ -34,8 +44,7 @@ namespace Assets.Scripts.SkillHandlers.Handlers
         public override void ExecuteSkillGroundTargeted(ServerControllable src, ref AttackResultData attack)
         {
             src.PerformSkillMotion();
-
-            src.SpriteAnimator.PauseAnimation();
+            
             src.SpriteAnimator.OverrideCurrentFrame(1);
             src.SpriteAnimator.PauseAnimation();
 
@@ -43,7 +52,8 @@ namespace Assets.Scripts.SkillHandlers.Handlers
         }
         
         public override void OnHitEffect(ServerControllable target, ref AttackResultData attack) {
-            CameraFollower.Instance.AttachEffectToEntity("firehit1", target.gameObject, target.Id);
+
+            CameraFollower.Instance.CreateEffectAtLocation("firehit1",target.RealPosition, new Vector3(0.75f,0.75f,0.75f), 0);
         }
     }
 }
