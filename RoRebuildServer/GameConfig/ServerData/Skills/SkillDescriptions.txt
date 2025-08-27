@@ -262,6 +262,12 @@ Cast Time: [0.7 * SkillLevel] seconds.
 Summons a blazing storm around the caster that will deliver multiple strikes to enemies within its area of effect, each inflicting 50% Fire property magic damage. The next cast of this skill will override the previous one if it's still active. Each cast consumes a Flame Stone.
 Cast Time: [6.0 - (0.5 * SkillLevel)] seconds.
 
+//----------------Ninja-------------------
+
+::FlamingPetals
+Inflict Fire property damage at a target by shooting flaming petals. This skill's level affects the number of strikes, and each strike causes an amount of damage equal to 90% of the caster's MATK. Mastered at Skill Level 10.
+
+
 //----------------Merchant-------------------
 
 ::EnlargeWeightLimit

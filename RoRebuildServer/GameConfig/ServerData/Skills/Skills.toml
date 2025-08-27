@@ -439,6 +439,17 @@ Icon = "tf_miss"
 Target = "Passive"
 MaxLevel = 10
 
+#----------------------------------
+# Ninja
+#----------------------------------
+
+[FlamingPetals]
+Name = "Flaming Petals"
+Icon = "nj_kouenka"
+Target = "Enemy"
+MaxLevel = 10
+SpCost = [18,20,22,24,26,28,30,32,34,36]
+AdjustableLevel = true
 
 #----------------------------------
 # Merchant

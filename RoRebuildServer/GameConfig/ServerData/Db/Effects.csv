@@ -111,3 +111,5 @@
 110,AnkleSnare,FALSE,FALSE,FALSE,,,,0,Assets/Prefabs/AnkleSnare.prefab,
 111,ExaflareMaster,FALSE,FALSE,FALSE,,,,0,Assets/Effects/Custom/Exaflare/ExaFlare.prefab,
 112,ExaflareSub,FALSE,FALSE,FALSE,,,,0,Assets/Effects/Custom/Exaflare/1sAoEMarker.prefab,
+113,FlametrapHit,FALSE,FALSE,FALSE,flametrap/flametrap_hit/flametrap_hit,,,-0.6,,
+114,Firedance,FALSE,FALSE,FALSE,rl_fire_dance/firedance,,,0,,

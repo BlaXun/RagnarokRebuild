@@ -1010,36 +1010,30 @@ namespace Assets.Scripts.Network
                 go.SetActive(false);
         }
 
-        public bool PerformSkillMotion(bool speedUpForFastMotionTime = false)
-        {
-            if (skipNextAttackMotion) //if the character casts a skill indirectly they shouldn't play their attack motion
-            {
-                // Debug.Log($"{name}: Skipping attack motion");
+        public bool PerformSkillMotion(bool speedUpForFastMotionTime = false) {
+            
+            //if the character casts a skill indirectly they shouldn't play their attack motion 
+            if (skipNextAttackMotion) {
                 skipNextAttackMotion = false;
                 return false;
             }
-            // Debug.Log($"{name}:Performing attack motion.");
 
             if (!IsCharacterAlive || SpriteAnimator == null || SpriteAnimator.State == SpriteState.Dead)
                 return false;
 
-            if (SpriteAnimator.Type == SpriteType.Player)
-            {
+            if (SpriteAnimator.Type == SpriteType.Player) {
                 
                 if (speedUpForFastMotionTime && AttackMotionTime < 0.5f && AttackMotionTime > 0f)
                     SpriteAnimator.AnimSpeed = AttackMotionTime / 0.5f;
                 else
                     SpriteAnimator.AnimSpeed = 1f;
+                
                 SpriteAnimator.ChangeMotion(SpriteMotion.Casting, true);
-            }
-            else
+            } else
                 SpriteAnimator.ChangeMotion(SpriteMotion.Attack1, true);
-
 
             SpriteAnimator.State = SpriteState.Idle;
 
-            // Debug.Log($"PerformBasicAttackMotion {name} speed {AttackAnimationSpeed}");
-            //SpriteAnimator.AnimSpeed = AttackAnimationSpeed;
             return true;
         }
 
