@@ -26,13 +26,10 @@ public class FlamingPetalsHandler : SkillHandlerBase
             return;
 
         var res = source.CalculateCombatResult(target, 0.9f, lvl, AttackFlags.Magical, CharacterSkill.FlamingPetals, AttackElement.Fire);
-        // Display damage shortly after the cast ended
-        res.Time = Time.ElapsedTimeFloat + 0.3f;
-
-        //var baseTime = 1.0f - ((lvl + 1) % 2) * 0.2f;
         
-        //source.ApplyAfterCastDelay(baseTime + hits * 0.2f, ref res);
-        source.ApplyCooldownForAttackAction(target);
+        // Display damage shortly after the cast ended
+        res.Time = Time.ElapsedTimeFloat + 0.2f;
+        
         source.ExecuteCombatResult(res, false);
 
         CommandBuilder.SkillExecuteTargetedSkillAutoVis(source.Character, target.Character, CharacterSkill.FlamingPetals, lvl, res, isIndirect);

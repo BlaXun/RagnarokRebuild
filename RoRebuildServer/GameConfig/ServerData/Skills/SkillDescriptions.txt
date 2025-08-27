@@ -250,6 +250,12 @@ Success rate: [4 + SkillLevel * 6]% chance.
 ::BackSlide
 Immediately jump backwards 5 tiles, based on the direction you're currently facing.
 
+//----------------Ninja-------------------
+
+::FlamingPetals
+Inflict Fire property damage at a target by shooting flaming petals. This skill's level affects the number of strikes, and each strike causes an amount of damage equal to 90% of the caster's MATK. Mastered at Skill Level 10.
+
+
 //----------------Merchant-------------------
 
 ::EnlargeWeightLimit

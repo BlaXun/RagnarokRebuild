@@ -12,24 +12,29 @@ namespace Assets.Scripts.SkillHandlers
     [SkillHandler(CharacterSkill.FlamingPetals)]
     public class FlamingPetalsHandler : SkillHandlerBase
     {
+        public override bool DoesAttackTakeWeaponSound => false;
+        
+        public override void StartSkillCasting(ServerControllable src, ServerControllable target, int lvl, float castTime)  {
+            HoldStandbyMotionForCast(src, castTime);
+            src.AttachEffect(CastEffect.Create(castTime, src.gameObject, AttackElement.Fire));
+            target?.AttachEffect(CastLockOnEffect.Create(castTime, target.gameObject));
+        }
+        
         public override void OnHitEffect(ServerControllable target, ref AttackResultData attack)  {
             attack.Target?.Messages.SendHitEffect(attack.Src, attack.DamageTiming, 1, attack.HitCount);
         }
         
-        public override void StartSkillCasting(ServerControllable src, ServerControllable target, int lvl, float castTime) {
-            Debug.Log($"StartSkillCasting");
-            HoldStandbyMotionForCast(src, castTime);
-            src.AttachEffect(CastEffect.Create(castTime, src.gameObject, AttackElement.Fire));
-            target?.AttachEffect(CastLockOnEffect.Create(castTime, target.gameObject));
-            Debug.Log($"StartSkillCasting ENDE");
-        }
-
-        public override void ExecuteSkillTargeted([CanBeNull] ServerControllable src, ref AttackResultData attack) {
+        public override void ExecuteSkillTargeted([CanBeNull] ServerControllable source, ref AttackResultData attack) {
             
-            src?.LookAtOrDefault(attack.Target);
-            if (src != null && attack.Target != null && attack.Result != AttackResult.Invisible)  {
-                FlamingPetalsEffect.Create(src, attack.Target.gameObject, 0f, attack.SkillLevel);
-                src?.PerformSkillMotion(true);
+            source?.PerformSkillMotion();
+
+            CameraFollower.Instance.CreateEffectAtLocation("FlametrapHit", attack.Target.CellPosition.ToWorldPosition() ,
+                new Vector3(2, 2, 2), 0);
+            
+            //CameraFollower.Instance.AttachEffectToEntity("FlametrapHit", attack.Target.gameObject, source.Id);
+            source?.LookAtOrDefault(attack.Target);
+            if (source != null && attack.Target != null && attack.Result != AttackResult.Invisible)  {
+                FlamingPetalsEffect.Spawn(source, attack.Target, 0f, attack.SkillLevel);
             }
         }
     }

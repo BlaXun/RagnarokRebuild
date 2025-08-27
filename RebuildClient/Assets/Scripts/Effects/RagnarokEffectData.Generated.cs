@@ -41,6 +41,7 @@ namespace Assets.Scripts.Effects
 		FrostDiverHit,
 		FrostDiverTrail,
 		MagnumBreak,
+		FlamingPetals,
 		Provoke,
 		Ruwach,
 		SafetyWall,
@@ -141,6 +142,7 @@ namespace Assets.Scripts.Effects
 			effectHandlers.Add(EffectType.FrostDiverHit, new Assets.Scripts.Effects.EffectHandlers.Skills.FrostDiverHitEffect());
 			effectHandlers.Add(EffectType.FrostDiverTrail, new Assets.Scripts.Effects.EffectHandlers.Skills.FrostDiverTrailEffect());
 			effectHandlers.Add(EffectType.MagnumBreak, new Assets.Scripts.Effects.EffectHandlers.Skills.MagnumBreakEffect());
+			effectHandlers.Add(EffectType.FlamingPetals, new Assets.Scripts.Effects.EffectHandlers.Skills.FlamingPetalsEffect());
 			effectHandlers.Add(EffectType.Provoke, new Assets.Scripts.Effects.EffectHandlers.Skills.ProvokeEffect());
 			effectHandlers.Add(EffectType.Ruwach, new Assets.Scripts.Effects.EffectHandlers.Skills.RuwachEffect());
 			effectHandlers.Add(EffectType.SafetyWall, new Assets.Scripts.Effects.EffectHandlers.Skills.SafetyWallEffect());
