@@ -120,6 +120,7 @@ Sanctuary = [["Heal", 1]]
 SafetyWall = [["Aspersio", 4],["Sanctuary", 3]]
 
 [Ninja]
-JobRank=1
+JobRank = 1
 Extends = "Novice"
 [Ninja.SkillTree]
+FlamingPetals = []
