@@ -14770,12 +14770,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3d8a2bbd3d6a31a4392e697143f14956
-    m_Address: Assets/Effects/Prefabs/FlametrapHit.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Effect
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3d8c9ab2db8d47a428a0666fae2ef351
     m_Address: Assets/Sprites/Npcs/4_shoal.spr
     m_ReadOnly: 0
@@ -21536,12 +21530,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 5994a16b9bb20a44fbbd1b1a1f2c5c81
-    m_Address: Assets/Effects/Prefabs/Firedance.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Effect
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5994a57bab4fc8a4dbf3580c9307e490
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD68C\uC0C9\uB298\uC5B4\uC9C4\uACE0\uC591\uC774.spr"
@@ -56196,12 +56184,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Cutins
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: ed5650609e65877469d09286014ff499
-    m_Address: Assets/Effects/Prefabs/ExplodingDragon.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Effect
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ed6701afa747c994497a87b836b903db
     m_Address: Assets/Sprites/Cutins/h_chaos03.png
