@@ -453,7 +453,7 @@ AdjustableLevel = true
 
 [BlazeShield]
 Name = "Blaze Shield"
-Icon = "nj_bakuenryu"
+Icon = "nj_kaensin"
 Target = "Self"
 MaxLevel = 10
 SpCost = [25]
