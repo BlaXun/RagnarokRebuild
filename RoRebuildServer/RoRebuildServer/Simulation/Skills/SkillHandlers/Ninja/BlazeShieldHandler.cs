@@ -172,7 +172,7 @@ public class BlazeShieldObjectEvent : NpcBehaviorBase {
         var aoe = World.Instance.GetNewAreaOfEffect();
         // This needs a low tick rate so the individual ticks can be done 
         aoe.Init(npc.Character, Area.CreateAroundPoint(npc.Character.Position, 0), AoeType.DamageAoE, targeting, 20f, 0.0125f, 0, 0);
-        aoe.CheckStayTouching = true; // Wont be able to perform hits if set to false
+        aoe.CheckStayTouching = true; // Won't be able to perform hits if set to false
         aoe.SkillSource = CharacterSkill.BlazeShield;
         
         npc.AreaOfEffect = aoe;
@@ -207,12 +207,13 @@ public class BlazeShieldObjectEvent : NpcBehaviorBase {
             var hitLock = 0.05f;
             target.SetSkillDamageCooldown(CharacterSkill.BlazeShield, hitLock); //make it so they can't get hit by blazeshield again for 100ms
             src.ExecuteCombatResult(res, false);
+            target.Character.RecenterOnTile();  // Like the original does, lets center the target on the panel
 
             // We are forcing a move lock on the target (this should also hinder stalactics with endure from moving)
             // However, we will not force HitLock bosses
             if (target.GetSpecialType() != CharacterSpecialType.Boss) {
-                // Prevent enemy from moving for 100ms
-                target.Character.AddMoveLockTime(0.1f);
+                // Prevent enemy from moving for 200ms
+                target.Character.AddMoveLockTime(0.2f);
             }
         }
 

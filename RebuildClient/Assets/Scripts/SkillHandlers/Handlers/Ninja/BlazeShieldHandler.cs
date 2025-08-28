@@ -12,12 +12,11 @@ namespace Assets.Scripts.SkillHandlers.Handlers
     [SkillHandler(CharacterSkill.BlazeShield, true)]
     public class BlazeShieldHandler : SkillHandlerBase
     {
-        public override void StartSkillCasting(ServerControllable src, ServerControllable target, int lvl, float castTime)
-        {
-            HoldStandbyMotionForCast(src, castTime);
+        public override void StartSkillCasting(ServerControllable src, ServerControllable target, int lvl, float castTime) {
+            src.SpriteAnimator.ChangeMotion(SpriteMotion.Casting,true);
             
-            // This will make the ninja kneel down while casting ...not quite what we want though.. we want the kneeling on stop
-            src.SpriteAnimator.OverrideCurrentFrame(2);
+            // Force the "hands together" motion for casting
+            src.SpriteAnimator.OverrideCurrentFrame(4);
             src.SpriteAnimator.PauseAnimation();
             
             src.AttachEffect(CastEffect.Create(castTime, src.gameObject, AttackElement.Fire));
@@ -26,33 +25,22 @@ namespace Assets.Scripts.SkillHandlers.Handlers
                 target.AttachEffect(CastLockOnEffect.Create(castTime, target.gameObject));
         }
         
-        public override void StartSkillCasting(ServerControllable src, Vector2Int target, int lvl, float castTime)
+        public override void ExecuteSkillTargeted([CanBeNull] ServerControllable src, ref AttackResultData attack)
         {
-            HoldStandbyMotionForCast(src, castTime);
+            if (src == null)
+                return;
+            
+            HoldStandbyMotionForCast(src, 0.01f);
             
             // This will make the ninja kneel down while casting ...not quite what we want though.. we want the kneeling on stop
             src.SpriteAnimator.OverrideCurrentFrame(2);
             src.SpriteAnimator.PauseAnimation();
             
-            src.AttachEffect(CastEffect.Create(castTime, src.gameObject, AttackElement.Fire));
-            
-            var targetCell = CameraFollower.Instance.WalkProvider.GetWorldPositionForTile(target);
-            if(target != Vector2Int.zero)
-                CastTargetCircle.Create(src.IsAlly, targetCell, 1, castTime);
-        }
-
-        public override void ExecuteSkillGroundTargeted(ServerControllable src, ref AttackResultData attack)
-        {
-            src.PerformSkillMotion();
-            
-            src.SpriteAnimator.OverrideCurrentFrame(1);
-            src.SpriteAnimator.PauseAnimation();
-
-            AudioManager.Instance.OneShotSoundEffect(src.Id, $"ef_firewall.ogg", attack.TargetAoE.ToWorldPosition());
+            // Playing the soundeffect, but a lil louder... its like in the original
+            AudioManager.Instance.OneShotSoundEffect(src.Id, $"ef_firewall.ogg", attack.TargetAoE.ToWorldPosition(),2f);
         }
         
         public override void OnHitEffect(ServerControllable target, ref AttackResultData attack) {
-
             CameraFollower.Instance.CreateEffectAtLocation("firehit1",target.RealPosition, new Vector3(0.75f,0.75f,0.75f), 0);
         }
     }
