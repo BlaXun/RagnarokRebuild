@@ -10,10 +10,6 @@ namespace Assets.Scripts.SkillHandlers.Handlers
     public class ExplodingDragonHandler : SkillHandlerBase {
         public override bool DoesAttackTakeWeaponSound => false;
         
-        public override void OnHitEffect(ServerControllable target, ref AttackResultData attack) {
-            target.Messages.SendElementalHitEffect(attack.Src, attack.MotionTime, AttackElement.Fire, attack.HitCount);
-        }
-        
         public override void StartSkillCasting(ServerControllable src, ServerControllable target, int lvl, float castTime) {
             HoldStandbyMotionForCast(src, castTime);
             src.AttachEffect(CastEffect.Create(castTime, src.gameObject, AttackElement.Fire));
@@ -23,6 +19,7 @@ namespace Assets.Scripts.SkillHandlers.Handlers
         public override void ExecuteSkillTargeted(ServerControllable src, ref AttackResultData attack)  {
             if (src != null)  {
                 CameraFollower.Instance.AttachEffectToEntity("ExplodingDragon", attack.Target.gameObject, src.Id);
+                src.PerformSkillMotion();
             }
         }
     }

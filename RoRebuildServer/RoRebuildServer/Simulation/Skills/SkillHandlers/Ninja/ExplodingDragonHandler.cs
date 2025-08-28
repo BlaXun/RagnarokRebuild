@@ -11,6 +11,21 @@ namespace RoRebuildServer.Simulation.Skills.SkillHandlers.Ninja
 {
     [SkillHandler(CharacterSkill.ExplodingDragon, SkillClass.Magic, SkillTarget.Enemy)]
     public class ExplodingDragonHandler : SkillHandlerBase  {
+
+        private readonly int requiredCatalystItemId = 7521; // Flame Stone Id
+        
+        public override bool PreProcessValidation(CombatEntity source, CombatEntity? target, Position position, int lvl,
+            bool isIndirect, bool isItemSource) {
+            // Exploding Dragon requires a Flame Stone
+            // Make sure to consume the catalyst item, if it can't be consumed we end here
+            if (!isIndirect && !isItemSource) {
+                if (ConsumeGemstoneForSkillWithFailMessage(source, requiredCatalystItemId) == false)  {
+                    return false;
+                }
+            }
+
+            return true;
+        }
         
         public override int GetAreaOfEffect(CombatEntity source, Position position, int lvl) => 2; //range 2 = 5x5
         
@@ -22,6 +37,7 @@ namespace RoRebuildServer.Simulation.Skills.SkillHandlers.Ninja
             return 3f;
         }
 
+        
         public override void Process(CombatEntity source, CombatEntity? target, Position position, int lvl,
             bool isIndirect, bool isItemSource)  {
             if (lvl < 0 || lvl > 5)
@@ -44,12 +60,12 @@ namespace RoRebuildServer.Simulation.Skills.SkillHandlers.Ninja
             var req = new AttackRequest(CharacterSkill.ExplodingDragon, damageMultiplier, amountOfHits, flags, AttackElement.Fire);
             (req.MinAtk, req.MaxAtk) = source.CalculateAttackPowerRange(true);
             var res = source.CalculateCombatResultUsingSetAttackPower(target, req);
-            res.Time = Time.ElapsedTimeFloat + 0.1f; // Make the attack hit shortly after
+            res.Time = Time.ElapsedTimeFloat + 0.15f; // Make the attack hit shortly after
                 
             source.ApplyAfterCastDelay(GetAfterCastDelay(), ref res);
+            source.ExecuteCombatResult(res, false);
             
             CommandBuilder.SkillExecuteTargetedSkill(source.Character, target.Character, CharacterSkill.ExplodingDragon, lvl, res, isIndirect); //send cast packet
-            target.ExecuteCombatResult(res, false);
             
             //now gather all players getting hit
             map.GatherEnemiesInArea(source.Character, target.Character.Position, range, targetList, !isIndirect, true);
@@ -72,9 +88,11 @@ namespace RoRebuildServer.Simulation.Skills.SkillHandlers.Ninja
             }
             
             CommandBuilder.ClearRecipients();
-            
-            if(!isIndirect)
+
+            if (!isIndirect)  {
                 source.ApplyCooldownForSupportSkillAction();
+            }
+                
         }
     }
 }
