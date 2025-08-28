@@ -439,6 +439,17 @@ Icon = "tf_miss"
 Target = "Passive"
 MaxLevel = 10
 
+#----------------------------------
+# Ninja
+#----------------------------------
+
+[ExplodingDragon]
+Name = "Exploding Dragon"
+Icon = "nj_bakuenryu"
+Target = "Enemy"
+MaxLevel = 5
+SpCost = [20,25,30,35,40]
+AdjustableLevel = true
 
 #----------------------------------
 # Merchant

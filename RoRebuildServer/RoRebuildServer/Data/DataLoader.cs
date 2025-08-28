@@ -776,7 +776,7 @@ internal class DataLoader
 
         Span<int> tempTable = stackalloc int[AMOUNT_OF_STATS];
 
-        int maxJobs = entries.Count;
+        int maxJobs = entries.Count +1;
         
         var fullBonusTable = new int[maxJobs * MAX_JOB_LEVELS * AMOUNT_OF_STATS]; //70 levels for maxJobs jobs with 6 stats each level
         foreach (var entry in entries)
