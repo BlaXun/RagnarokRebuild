@@ -256,24 +256,16 @@ Immediately jump backwards 5 tiles, baRagased on the direction you're currently 
 Summons icy spears to strike a single target multiple times, where each spear will inflict 70% Water property magic damage.
 Cast Time: [0.7 * SkillLevel] seconds.
 
-//----------------Ninja-------------------
-
 ::BlazeShield
-<color=#444444>Summons a blazing storm around the caster that will deliver multiple strikes to enemies within its area of effect, each inflicting 50% </color><color=#FF0000>Fire</color><color=#444444> property magic damage. The next cast of this skill will override the previous one if it's still active.</color>
+<color=#444444>Summons a fiery storm around you that strikes enemies in the area multiple times. Each strike deals 50% </color><color=#FF0000>Fire</color><color=#444444> magic damage.</color>
+<color=#777777>The next cast of this skill will override the previous one if it's still active.</color>
 Cast Time: <color=#444444>[6.0 - (0.5 * SkillLevel)] seconds.</color>
-Target: <color=#444444>Current position</color>
-Area: <color=#444444>5x5 around the player</color>
-Hits per field: <color=#444444>5 - 9 depending on skill level</color>
+Area: <color=#444444>5x5 around you</color>
+Hits per field: <color=#444444>[4 + SkillLevel/2 (round up)]</color>
 Catalyst: <color=#444444>1 Flame Stone.</color>
-
-
-//----------------Ninja-------------------
 
 ::FlamingPetals
 Inflict Fire property damage at a target by shooting flaming petals. This skill's level affects the number of strikes, and each strike causes an amount of damage equal to 90% of the caster's MATK. Mastered at Skill Level 10.
-
-
-//----------------Ninja-------------------
 
 ::ExplodingDragon
 <color=#444444>Summon a flaming dragon to deal </color><color=#FF0000>Fire</color><color=#444444>-element damage to all enemies in the 5x5 area around the target.</color>
