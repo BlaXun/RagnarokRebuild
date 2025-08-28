@@ -18,13 +18,13 @@ public enum DamageApplicationFlags : byte
 
 public struct DamageInfo
 {
-    public Entity Source;
-    public Entity Target;
-    public Position AttackPosition;
+    public Entity Source;   // Source of the attack
+    public Entity Target;   // Target for the attack
+    public Position AttackPosition; // At what position the attack will be executed
     public float Time;
     public float AttackMotionTime;
-    public int Damage;
-    public byte HitCount;
+    public int Damage;      // The actual damage to apply
+    public byte HitCount;   // The amount of hits to apply
     public byte KnockBack;
     public AttackResult Result;
     private byte skillId;

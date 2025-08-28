@@ -111,3 +111,4 @@
 110,AnkleSnare,FALSE,FALSE,FALSE,,,,0,Assets/Prefabs/AnkleSnare.prefab,
 111,ExaflareMaster,FALSE,FALSE,FALSE,,,,0,Assets/Effects/Custom/Exaflare/ExaFlare.prefab,
 112,ExaflareSub,FALSE,FALSE,FALSE,,,,0,Assets/Effects/Custom/Exaflare/1sAoEMarker.prefab,
+113,ExplodingDragon,TRUE,TRUE,FALSE,fire dragon,,,0,,
