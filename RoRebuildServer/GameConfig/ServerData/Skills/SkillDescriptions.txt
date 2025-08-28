@@ -253,10 +253,11 @@ Immediately jump backwards 5 tiles, based on the direction you're currently faci
 //----------------Ninja-------------------
 
 ::ExplodingDragon
-Summon a flaming dragon to deal Fire-element damage to all enemies in the 5x5 area around the target.
-Cast Time: 3s
-After Cast Delay: 3s
-Uses: <color=#777777>1 Flame Stone</color>
+<color=#444444>Summon a flaming dragon to deal </color><color=#FF0000>Fire</color><color=#444444>-element damage to all enemies in the 5x5 area around the target.</color>
+Target: <color=#444444>Enemy</color>
+Cast Time: <color=#444444>3s</color>
+After Cast Delay: <color=#444444>3s</color>
+Uses: <color=#444444>1 Flame Stone</color>
 
 //----------------Merchant-------------------
 
