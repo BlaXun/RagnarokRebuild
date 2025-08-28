@@ -30,7 +30,7 @@ namespace RoRebuildServer.Simulation.Skills.SkillHandlers.Ninja
         public override int GetAreaOfEffect(CombatEntity source, Position position, int lvl) => 2; //range 2 = 5x5
         
         private float GetAfterCastDelay()  {
-            return 3f;
+            return 2f;
         }
         
         public override float GetCastTime(CombatEntity source, CombatEntity? target, Position position, int lvl)  {
