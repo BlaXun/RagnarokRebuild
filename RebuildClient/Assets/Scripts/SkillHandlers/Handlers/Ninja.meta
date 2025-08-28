@@ -1,5 +1,6 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: 62dd4035b85d80949b89d4080aceee13
 folderAsset: yes
 DefaultImporter:
@@ -11,3 +12,7 @@ DefaultImporter:
 guid: 16167b47ca8d4459bf4b32dbe7fb25d0
 timeCreated: 1756242688
 >>>>>>> Add-Flaming-Petals
+=======
+guid: fd595b4ef9e349e6869f3c58f118233c
+timeCreated: 1756355915
+>>>>>>> Add-Exploding-Dragon

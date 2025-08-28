@@ -113,3 +113,4 @@
 112,ExaflareSub,FALSE,FALSE,FALSE,,,,0,Assets/Effects/Custom/Exaflare/1sAoEMarker.prefab,
 113,FlametrapHit,FALSE,FALSE,FALSE,flametrap/flametrap_hit/flametrap_hit,,,-0.6,,
 114,Firedance,FALSE,FALSE,FALSE,rl_fire_dance/firedance,,,0,,
+115,ExplodingDragon,TRUE,TRUE,FALSE,fire dragon,,화염진,0,,

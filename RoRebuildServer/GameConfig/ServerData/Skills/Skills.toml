@@ -443,12 +443,36 @@ MaxLevel = 10
 # Ninja
 #----------------------------------
 
+[FreezingSpear]
+Name = "Freezing Spear"
+Icon = "nj_hyousensou"
+Target = "Enemy"
+MaxLevel = 10
+SpCost = [15,18,21,24,27,30,33,36,39,42]
+AdjustableLevel = true
+
+[BlazeShield]
+Name = "Blaze Shield"
+Icon = "nj_bakuenryu"
+Target = "Self"
+MaxLevel = 10
+SpCost = [25]
+AdjustableLevel = false
+
 [FlamingPetals]
 Name = "Flaming Petals"
 Icon = "nj_kouenka"
 Target = "Enemy"
 MaxLevel = 10
 SpCost = [18,20,22,24,26,28,30,32,34,36]
+AdjustableLevel = true
+
+[ExplodingDragon]
+Name = "Exploding Dragon"
+Icon = "nj_bakuenryu"
+Target = "Enemy"
+MaxLevel = 5
+SpCost = [20,25,30,35,40]
 AdjustableLevel = true
 
 #----------------------------------
@@ -805,26 +829,6 @@ SpCost = [10,10,10,10,10]
 [SkinTempering]
 [PowerThrust]
 [MaximizePower]
-
-#----------------------------------
-# Ninja
-#----------------------------------
-
-[FreezingSpear]
-Name = "Freezing Spear"
-Icon = "nj_hyousensou"
-Target = "Enemy"
-MaxLevel = 10
-SpCost = [15,18,21,24,27,30,33,36,39,42]
-AdjustableLevel = true
-
-[BlazeShield]
-Name = "Blaze Shield"
-Icon = "nj_bakuenryu"
-Target = "Self"
-MaxLevel = 10
-SpCost = [25]
-AdjustableLevel = false
 
 #----------------------------------
 # Other skills

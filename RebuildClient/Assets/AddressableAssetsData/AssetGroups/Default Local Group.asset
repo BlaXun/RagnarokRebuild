@@ -56197,6 +56197,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed5650609e65877469d09286014ff499
+    m_Address: Assets/Effects/Prefabs/ExplodingDragon.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Effect
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ed6701afa747c994497a87b836b903db
     m_Address: Assets/Sprites/Cutins/h_chaos03.png
     m_ReadOnly: 0

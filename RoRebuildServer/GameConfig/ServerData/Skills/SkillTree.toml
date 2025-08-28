@@ -126,3 +126,4 @@ Extends = "Novice"
 FreezingSpear = []
 FlamingPetals = []
 BlazeShield = [["FlamingPetals",5]]
+ExplodingDragon = [["BlazeShield",5]]
