@@ -443,6 +443,12 @@ MaxLevel = 10
 # Ninja
 #----------------------------------
 
+[NinjaMastery]
+Name = "Ninja Mastery"
+Icon = "nj_ninpou"
+Target = "Passive"
+MaxLevel = 10
+
 [FreezingSpear]
 Name = "Freezing Spear"
 Icon = "nj_hyousensou"

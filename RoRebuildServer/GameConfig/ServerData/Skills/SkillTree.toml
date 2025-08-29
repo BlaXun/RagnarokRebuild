@@ -123,7 +123,8 @@ SafetyWall = [["Aspersio", 4],["Sanctuary", 3]]
 JobRank = 1
 Extends = "Novice"
 [Ninja.SkillTree]
-FreezingSpear = []
-FlamingPetals = []
+NinjaMastery = []
+FreezingSpear = [["NinjaMastery",1]]
+FlamingPetals = [["NinjaMastery",1]]
 BlazeShield = [["FlamingPetals",5]]
-ExplodingDragon = [["BlazeShield",5]]
+ExplodingDragon = [["NinjaMastery",10],["BlazeShield",5]]
