@@ -439,6 +439,15 @@ Icon = "tf_miss"
 Target = "Passive"
 MaxLevel = 10
 
+#----------------------------------
+# Ninja
+#----------------------------------
+
+[NinjaMastery]
+Name = "Ninja Mastery"
+Icon = "nj_ninpou"
+Target = "Passive"
+MaxLevel = 10
 
 #----------------------------------
 # Merchant

@@ -359,3 +359,9 @@ Strike the earth with a powerful hammer swing that has a [20 + SkillLvl * 10]% c
 ::AdrenalineRush
 Increases attack speed with axes and maces, reducing the delay between attacks by 30% for yourself and 25% for party members. 
 Duration: [SkillLevel * 30] seconds.
+
+//----------------Ninja-------------------
+
+::NinjaMastery
+<color=#444444>1Increase sitting SP regeneration.</color>
+SP Increase: <color=#444444>[3 * SkillLevel] every 10 seconds</color>

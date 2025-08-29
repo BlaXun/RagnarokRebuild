@@ -1343,12 +1343,26 @@ public class Player : IEntityAutoReset
             isSittingSpTick = false;
 
         // Apply SP Recovery through user means such as skills
+        var plusSpRegen = 0;
         var spRegenSkill = MaxLearnedLevelOfSkill(CharacterSkill.IncreaseSPRecovery);
         if (spRegenSkill > 0 && sp < maxSp) {
-            var plusSpRegen = 3 * spRegenSkill + maxSp * spRegenSkill / 500; //3sp + 0.2% maxSP per level
+            plusSpRegen += 3 * spRegenSkill + maxSp * spRegenSkill / 500; //3sp + 0.2% maxSP per level
             regen += plusSpRegen;
-            CommandBuilder.SendImprovedRecoveryValue(this, 0, plusSpRegen);
         }
+        
+        // Apply Ninja Mastery Skill only when sitting
+        var ninjaMasterySkill = MaxLearnedLevelOfSkill(CharacterSkill.NinjaMastery);
+        if (Character.State == CharacterState.Sitting && ninjaMasterySkill > 0) {
+            if (spRegenSkill > 0 && sp < maxSp) {
+                plusSpRegen += 3 * ninjaMasterySkill; //3sp * Skill Level
+                regen += plusSpRegen;
+            }
+        }
+        
+        // After having collected all the additional SP Regeneration effects
+        // we send the packet informing the client
+        if (plusSpRegen > 0)
+            CommandBuilder.SendImprovedRecoveryValue(this, 0, plusSpRegen);
 
         // Remember to include the absolute SP Recovery
         // This is only applied after all multiplication formulars
