@@ -439,6 +439,16 @@ Icon = "tf_miss"
 Target = "Passive"
 MaxLevel = 10
 
+#----------------------------------
+# Ninja
+#----------------------------------
+
+[ShadowLeap]
+Name = "Shadow Leap"
+Icon = "nj_shadowjump"
+Target = "Ground"
+MaxLevel = 5
+SpCost = [10,10,10,10,10]
 
 #----------------------------------
 # Merchant

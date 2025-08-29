@@ -744,6 +744,11 @@ public static class CommandBuilder
         NetworkManager.SendMessageMulti(packet, recipients);
     }
 
+    /// <summary>
+    /// Sends a movement packet to multiple recipients
+    /// which were earlier added as packet recipients 
+    /// </summary>
+    /// <param name="c">The WorldObject which has moved</param>
     public static void SendMoveEntityMulti(WorldObject c)
     {
         var packet = NetworkManager.StartPacket(PacketType.Move, 48);

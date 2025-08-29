@@ -596,10 +596,14 @@ public class Map
         }
     }
 
-    public void AddVisiblePlayersAsPacketRecipients(WorldObject character)
-    {
-        if (character.TryGetVisiblePlayerList(out var list))
-        {
+    /// <summary>
+    /// Adds all players that are visible for the given character to the
+    /// current list of recipients for packets
+    /// </summary>
+    /// <param name="character">The character for whih the visible characters will be added
+    /// to the list of packet recipients</param>
+    public void AddVisiblePlayersAsPacketRecipients(WorldObject character) {
+        if (character.TryGetVisiblePlayerList(out var list)) {
             CommandBuilder.AddRecipients(list);
         }
     }
