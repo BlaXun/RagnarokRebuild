@@ -148,4 +148,7 @@ You've had something recently taken and cannot be stolen from again.
 You cannot be seen and you cannot be targeted.
 
 ::CicadaSkinShed
-You will evade physical attacks 
+You will evade physical attacks.
+
+::NinjaAura
+Temporarily increase STR and INT.

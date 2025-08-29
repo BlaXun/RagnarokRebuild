@@ -489,6 +489,14 @@ MaxLevel = 5
 SpCost = [20,25,30,35,40]
 AdjustableLevel = true
 
+[NinjaAura]
+Name = "Ninja Aura"
+Icon = "nj_nen"
+Target = "Self"
+MaxLevel = 5
+SpCost = [20,30,40,50,60]
+AdjustableLevel = true
+
 #----------------------------------
 # Merchant
 #----------------------------------

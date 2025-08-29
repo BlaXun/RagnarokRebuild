@@ -358,3 +358,10 @@ Type = "Buff"
 Icon = "i_maemi"
 CanDispel = false
 CanDisable = false
+
+[NinjaAura]
+Name = "Ninja Aura"
+Type = "Buff"
+Icon = "i_nen"
+CanDisable = true
+CanDispel = false

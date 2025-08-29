@@ -285,6 +285,16 @@ Cast Time: <color=#444444>3s</color>
 After Cast Delay: <color=#444444>2s</color>
 Uses: <color=#444444>1 Flame Stone</color>
 
+//----------------Ninja-------------------
+
+::NinjaAura
+<color=#444444>Temporarily increase STR and INT.</color>
+Duration: <color=#444444>[15 + (15 * SkillLevel)] seconds.</color>
+Cast Time: <color=#444444>[6 - SkillLevel] seconds.
+STR: <color=#444444>1 * SkillLevel</color>
+IN: <color=#444444>1 * SkillLevel</color> 
+
+
 //----------------Merchant-------------------
 
 ::EnlargeWeightLimit
