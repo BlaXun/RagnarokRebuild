@@ -439,6 +439,17 @@ Icon = "tf_miss"
 Target = "Passive"
 MaxLevel = 10
 
+#----------------------------------
+# Ninja
+#----------------------------------
+
+[CicadaSkinShed]
+Name = "Cicada Skin Shed"
+Icon = "nj_utsusemi"
+Target = "Self"
+MaxLevel = 5
+SpCost = [12,15,18,21,24]
+AdjustableLevel = true
 
 #----------------------------------
 # Merchant

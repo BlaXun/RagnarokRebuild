@@ -359,3 +359,13 @@ Strike the earth with a powerful hammer swing that has a [20 + SkillLvl * 10]% c
 ::AdrenalineRush
 Increases attack speed with axes and maces, reducing the delay between attacks by 30% for yourself and 25% for party members. 
 Duration: [SkillLevel * 30] seconds.
+
+//----------------Ninja-------------------
+
+::CicadaSkinShed
+<color=#444444>Temporarily nullify physical attacks that would damage the user. When damage is nullified, the user is knocked back.</color>
+Sp Cost: <color=#444444>[9 + SkillLevel * 3]</color>
+Duration: <color=#444444>10 seconds + [10 * SkillLevel] seconds</color>
+Nullifies: <color=#444444>floor((Skill Level + 1) / 2)</color>
+Knockback: <color=#444444>7 cells</color>
+

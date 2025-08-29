@@ -123,3 +123,4 @@ SafetyWall = [["Aspersio", 4],["Sanctuary", 3]]
 JobRank=1
 Extends = "Novice"
 [Ninja.SkillTree]
+CicadaSkinShed = []

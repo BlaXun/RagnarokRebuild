@@ -23,6 +23,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 001369d01c61b9d48814b0de17f964b1
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uAE30\uC758\uAC00\uBA74.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0023a0a1383d64e4ab35e0520e36b91c
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uAE08\uBE5B\uC74C\uC0C9.spr"
     m_ReadOnly: 0
@@ -95,6 +101,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0047db963a56aca47a8dd758085f6ceb
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD3ED\uC8FC\uD558\uB294\uCE69.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 004aba3cd85119d46a93d75a93bd8e2c
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uCC9C\uC0C1\uC758\uC5B4\uB460\uD654\uC5FC.spr"
     m_ReadOnly: 0
@@ -103,6 +115,18 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0061725b3e8d7ea4dba802be0e124d4b
     m_Address: Assets/Sprites/Npcs/4_archangeling.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0061e3aa505fabb4ca646d158e7b7a8e
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_c_twinkle_twin_b.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0062b27a43d71a84e8ac5acaf72fadc6
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_medium_wave.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -221,6 +245,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00df6bb34b7af044b99b5165a5346d0a
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC18C\uB144\uBAA8\uB85C\uD06C\uC218\uD558.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 00df937882b7ee1449ee4179ee50666d
     m_Address: Assets/Sprites/Imported/Collections/Puppy_Love.png
     m_ReadOnly: 0
@@ -268,6 +298,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Minimap
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 010ea2b829bb31b4ea3dfde39d8a4b6d
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC0AC\uC774\uADF8\uB8EC2.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0119172f4d1b2e746ba215f60f828fbb
     m_Address: Assets/Sprites/Monsters/scorpion.spr
@@ -397,6 +433,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 01a30b64f24939741a5dda4ee4739e3e
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uBE75\uBD09\uD22C2.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01a642a9b3e259f4ba174335ae7ff338
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB9DB\uC788\uB294\uB538\uAE30\uBAA8.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -625,6 +667,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 02c802e8ef02df146b5877916df1f44e
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uCF54\uB07C\uB9AC\uBAA8\uD615\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02cfd6fffaaa502459f423e65c6e1788
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uC18C\uAC00\uC8FD\uBAA8\uC790.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -892,6 +940,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Cutins
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03f5222706b03fa4a94adecdecc92f01
+    m_Address: Assets/Sprites/Weapons/Swordsman/Female/Swordsman_F_1185.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 03ffb4aefb078b2409397009f8f92a8c
     m_Address: "Assets/Sprites/Shields/SuperNovice/Female/\uC288\uD37C\uB178\uBE44\uC2A4_F_28902_\uBC29\uD328.spr"
@@ -1667,6 +1721,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0736902926e3b8948b2efa309f1a5704
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB178\uB780\uD587.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0739a99426e472f42aacc6ac6997a1fb
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_cat_ear_hat_white.spr"
     m_ReadOnly: 0
@@ -1949,6 +2009,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08adc7baa33d6974cace9472d7c22d09
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uB298\uC5B4\uC9C4\uB8E8\uB098\uD2F1\uADC0_\uAC80\uC815.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 08b350b9b0fb72144a49efb50bd5f7cb
     m_Address: Assets/Sprites/Cutins/v_choco01.png
     m_ReadOnly: 0
@@ -1957,6 +2023,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 08c0e4fe919d1164696f072bc9a3c239
     m_Address: Assets/Sprites/Effects/timeattack.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08c137b8028c2ac40b662e8446972ce0
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB098\uBB34\uB298\uBCF4\uC758\uBAA8\uC790.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -2711,6 +2783,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ba8c83369af2764b86365b294d9aaaa
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_snowflake_tiara.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0bb1fa4254c2e0840a99d514c79e23e0
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uCC9C\uCE6D\uAD81\uBCF4\uAD00.spr"
     m_ReadOnly: 0
@@ -2950,6 +3028,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0cd6939ce98c6d44b86b6cd2f6d04015
+    m_Address: "Assets/Sprites/Characters/BodyMale/\uD0C0\uC870\uC2A4\uB098\uC774\uD37C_\uB0A8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0cd93e5e8995b494ca81260857021257
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_c_side_tail_bl.spr"
     m_ReadOnly: 0
@@ -3021,6 +3105,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d1df916ea136804496256eab3fcd92b
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD574\uAD70\uC758\uBCA0\uB808\uBAA8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0d21163186d96c84791bca69720620ea
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uC2A4\uD2B8\uB808\uC774\uD2B8\uD3EC\uB2C8_\uC5F0\uAC08\uC0C9.spr"
@@ -3180,6 +3270,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0de142da58572964c95306a015457e77
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uC6A9\uC758\uD574\uACE8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0de8a3da46dbff647b89da10f26e2cae
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_h_knight_cloak.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -3658,6 +3754,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10232dbc762ba8442838abec2e532df3
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uBAA8\uCE58\uB9C1\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 10234cc656a3a6a42867147bee59bc40
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC300\uAC00\uB9C8\uB2C8\uBAA8\uC790.spr"
     m_ReadOnly: 0
@@ -3906,6 +4008,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 114e9a9e78011b74eb595876c968e7ac
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uACE0\uB300\uC758\uBB38\uAD00.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 115676dc80c4e3646a36b466fedbc53c
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_melon_cap.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -4252,6 +4360,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12acd270cbcb74941ad871de29dc633b
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD3EC\uD3EC\uB9C1\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 12aee3f9757b584449879210a2b4cb75
     m_Address: Assets/Sprites/Imported/Collections/cardart_Dragon_Egg_Card.png
     m_ReadOnly: 0
@@ -4455,6 +4569,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Cutins
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 138135b9729797b4f9f1f9df8d1b8af5
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uBC34\uC2DC\uB9C8\uC2A4\uD130\uC758\uD0A4\uC2A4.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1382642719abe6f44998722241155131
     m_Address: Assets/Sprites/Imported/Collections/cardart_High_Priest_Card.png
@@ -4696,6 +4816,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1488d702d2ecf03458c09f3c01a22031
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC218\uB77C\uC655\uC758\uB450\uAC74.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 14917fd69a4e2cc4fb423396e5c5f586
     m_Address: Assets/Sprites/Effects/ab_offertorium.spr
     m_ReadOnly: 0
@@ -4810,6 +4936,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 151451efd7a475a49946888ebb5f7fbb
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB8EC\uD5EC\uB984.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 15191b8304b166d47b5249c52bf5c151
     m_Address: "Assets/Sprites/Cutins/\uD3AB_\uC2A4\uD2F8\uCD0C\uCD0C.png"
     m_ReadOnly: 0
@@ -4824,6 +4956,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1522e0d155fc9994f96883be880b4bef
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uD30C\uB780\uC5D4\uC824\uB9C1\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15235499b6f272240b6795e6ce1a9bf8
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD31D\uCF58\uBAA8\uC790.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -5242,11 +5380,23 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16ca30c2c0b0cef47b35a7845700286f
+    m_Address: Assets/Sprites/Monsters/cruiser.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 16ce8d257f4841c44bcf33b035cfeafe
     m_Address: Assets/Sprites/Weapons/Merchant/Female/Merchant_F_1208.spr
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16dbe4c1049979248b339bb5864413b8
+    m_Address: Assets/Effects/Prefabs/AnkleSnare.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Effect
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 16dd956af7c312f42b1e0e144b474a3f
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD131\uC218\uC5FC.spr"
@@ -5410,6 +5560,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 177ca559d1755ac4bab01714a6ceeae9
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_eyes_of_illusion.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1792a3c2018a99145a01b60e33a2a034
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uD131\uC218\uC5FC.spr"
     m_ReadOnly: 0
@@ -5566,6 +5722,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18435ef39ae6b774fba14b21b80b430a
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD3ED\uD0C4\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1849c2bee44d72b4db0406f7396b95e1
     m_Address: "Assets/Sprites/Weapons/Mage/Male/Mage_M_\uC2A4\uD0AC.spr"
     m_ReadOnly: 0
@@ -5592,6 +5754,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 186aa2d236ccbcf40ae65048aa2f2662
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_iro\uD50C\uB798\uADF8\uB450\uAC74.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 186bcef94f2fd304683aedbf103aeea8
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC5BC\uC5B4\uBD99\uC740\uB545\uC758\uC7A5\uBBF8.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -5692,6 +5860,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18f5f08692657ad4e9232ee59ba48dca
+    m_Address: Assets/Sprites/Monsters/desert_wolf_b.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 18fba0c5665824c48a3409fdf1757786
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_long_twin_bl.spr"
     m_ReadOnly: 0
@@ -5784,6 +5958,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 195845a9773ec974ab40e3d7a0bb96d6
     m_Address: Assets/Sprites/Npcs/4_white_cow.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 195f8dfe4cb316d44a2275bdd7929e34
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_frill_collar.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -6382,6 +6562,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c33e342712dd7e4f841ae6dabcbac2d
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_heart_card_in_mouth.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1c3416030bc17d34fab6363db88d4441
     m_Address: Assets/Sprites/Cutins/rote02.png
     m_ReadOnly: 0
@@ -6468,6 +6654,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1c76f866b697104449d4032352609e08
     m_Address: Assets/Sprites/Npcs/4_ep17_miguel_d.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c7866f9c7a5ab64484706895ac38452
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBB34\uC9C0\uAC1C\uC2A4\uCE74\uD504.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -6592,6 +6784,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cfedda7b20357647bc64c4db9d5521b
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uAC80\uC131\uC758\uC655\uAD00.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1d003fc5f1bb5324894d2b85e36d72ec
     m_Address: Assets/Maps/minimap/anthell01_walkmask.png
     m_ReadOnly: 0
@@ -6669,6 +6867,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Cutins
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d54fd49bf5bb9645bf2a88e021281b6
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC2A4\uCE74\uC774\uBA67.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1d614db243b82f942a81ad0f31df1309
     m_Address: Assets/Sprites/Imported/Collections/Baba_Yaga's_Secret_Medicine.png
@@ -6904,6 +7108,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e507867fe8ec2e4cb10e5c8b7326261
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_choco_minihat.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1e5c053e52a7dc141816f629fd06bca6
     m_Address: Assets/Sprites/Cutins/eden_event.png
     m_ReadOnly: 0
@@ -6990,6 +7200,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1e9bc3fe2559547498ca3df96910681a
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uC785\uC5D0\uBB34\uB294\uC624\uB80C\uC9C0.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ea639de4dfdf4b43a5c854d35de88da
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBA38\uD050\uB9AC\uC758_\uD22C\uAD6C.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -7816,6 +8032,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21f3b61fa1f9b154cb11220b8304bc23
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_elephangel_th.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 21ff0e9819f26144f972c125ca2819b4
     m_Address: Assets/Sprites/Cutins/badge_p.png
     m_ReadOnly: 0
@@ -8044,6 +8266,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22d15302f4011884da51a2e36207aecb
+    m_Address: "Assets/Sprites/Characters/BodyMale/imperial_guard_\uB0A8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 22d4650809e8b304c81d12512855c31a
     m_Address: Assets/Sprites/Imported/Collections/Serin's_Gold_Ring.png
     m_ReadOnly: 0
@@ -8118,6 +8346,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 235f5f42cb71f714ab2d763d61b76b0b
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uACE0\uC591\uC774\uBA38\uB9AC\uB760.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 236384e0b2dd50e4d97921792d50dc8f
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_wildcat_knit_cap.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -8770,8 +9004,20 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 263f42e1b03ce25469e2809242dd6b0a
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC131\uC9C1\uC790\uC758\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 26451210cc35fca46801d5e315328aa8
     m_Address: Assets/Sprites/Npcs/4_m_rusknight.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2645d176153146d4199cfd60ca7af4ac
+    m_Address: Assets/Sprites/Monsters/fur_seal.spr
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -8992,6 +9238,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Minimap
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 272fc91536a01d3408e0bdd27b1ce520
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c\uACE0\uC591\uC774\uC0B0\uD0C0\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2734d661fb64ba6468c7e1aa7651ddad
     m_Address: Assets/Sprites/Cutins/oscar04.png
     m_ReadOnly: 0
@@ -9045,6 +9297,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Minimap
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2779240ffce46bb43b487005bef08624
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB098\uC774\uD2B8\uC2A4\uD328\uB85C\uC6B0\uD587.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 279fc5abde22e1145953d7dd03780045
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uC815\uC9C0\uD45C\uC9C0\uD310.spr"
@@ -9208,6 +9466,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2816798284bbfbd45824e485cfbad4e6
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uAC00\uC2A4\uB9C8\uC2A4\uD06C.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 281b574b7dd51e940b584965baf97ca7
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uBE0C\uB77C\uC6B4\uC2A4\uD1A8.spr"
     m_ReadOnly: 0
@@ -9226,6 +9490,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2833f97a46c993847ba0055132a9b401
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uCC9C\uC0AC\uC758\uB9C8\uCE6D\uD587.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2836bed0376f40147a06ecf76bd47b3c
     m_Address: Assets/Sprites/Npcs/4_m_lgtguard2.spr
     m_ReadOnly: 0
@@ -9237,6 +9507,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Cutins
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 283a09d656acf18478372e29322735a0
+    m_Address: Assets/Sprites/Monsters/horong.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 283b61446c28a914ea67ef2a79b1b712
     m_Address: Assets/Sprites/Npcs/4_f_trainee.spr
@@ -9274,6 +9550,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 286d0e9021a8f6a44bc9e2bc6dc41fc8
+    m_Address: Assets/Sprites/Monsters/baphomet_.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 286e26f0507dfaa4f9b82b17f5d9b145
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_long_twin_gn.spr"
     m_ReadOnly: 0
@@ -9291,6 +9573,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2871dfec203ce9d4fb52977fd8d4cb98
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD558\uD2B8\uBA38\uB9AC\uD540.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 287363c3c41be53459bc1e79191aa082
     m_Address: Assets/Sprites/Cutins/kunny1.png
@@ -9447,6 +9735,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 290d5bd418dacd848aff91adde231716
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC2A4\uCFE0\uBC84\uB9C8\uC2A4\uD06C.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 290d9b68880a6b845ba7516937a38a26
     m_Address: Assets/Sprites/Imported/Collections/Gate_Keeper.png
@@ -9654,6 +9948,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 29b5e16ce85dc2b42b53026721ced2c6
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uD50C\uB77C\uC6CC\uD3EC\uD2B8\uB9C8\uC2A4\uD06C.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29bc9ae04d078394ca037826e31f643d
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uAD11\uD718\uC758\uACA9\uB178.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -10042,6 +10342,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b4711a8cf897584a8bfbc8a582d8da9
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uACE0\uAE09\uD751\uC0AC\uC655\uC758\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2b47fedf26662574f878d27a36ef3e49
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC624\uBC84\uD504\uB85C\uD14D\uD130.spr"
     m_ReadOnly: 0
@@ -10185,6 +10491,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2bd2cae3f3b863847aba7935615eccce
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_phantom_ear.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2bdbca0fd64441f4fb48eba2110b980c
     m_Address: Assets/Sprites/Imported/Collections/cardart_Male_Thief_Bug_Card.png
@@ -10422,6 +10734,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2d1d67eabbf0d41449ec5da731260c84
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uC131\uC9C1\uC790\uC758\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d1dd876adcdc6448b69962a4f9572cc
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC5B4\uC13C\uB4DC\uD06C\uB77C\uC6B4.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -11272,6 +11590,18 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30baba3ab800ec74e8c86e567277db62
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_heart_angel_tw.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30bd25b9a9a90a743bd5fcf06107980b
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uB208\uBD80\uC2E0\uAC00\uBC1C.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 30cb9134b89922746b224fdf59414cdb
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB8E8\uC988\uC6E8\uC774\uBE0C\uD2B8\uC708_\uBE68\uAC15.spr"
     m_ReadOnly: 0
@@ -11308,8 +11638,20 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30f2c922958b5234cb8c4c5dd2e296d0
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC544\uB77C\uBE44\uC548\uBCA0\uC77C.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 30fe38320a3249342a60a9014bfbfdc2
     m_Address: Assets/Sprites/Npcs/1_m_pay_elder.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30feb01f3619d6b4491a6a6076a88795
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uBC1C\uADF8\uB808.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -11400,6 +11742,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 315f49b278fec894ebc53e9b108dca89
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_c_beer_server.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 316256f43a260cc4c950aa97deca4596
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uCC9C\uAD6C\uC758\uB450\uB8E8\uB9C8\uB9AC.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -12184,6 +12532,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 342351a0513c3ea4b9bf34882f32348b
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_rwc\uC2B9\uB9AC\uC758\uC655\uAD00_8\uAC15.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 342d20681edae194897e3c0211616d5e
     m_Address: "Assets/Sprites/Characters/BodyFemale/\uAC74\uB108_\uC5EC.spr"
     m_ReadOnly: 0
@@ -12198,6 +12552,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3435e1fe0549b824b9a68a2f44b35f9b
     m_Address: "Assets/Sprites/Characters/BodyFemale/\uB85C\uB4DC\uB098\uC774\uD2B8_\uC5EC.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3438275390ae0a440a409b1307281f5f
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC655\uB9AC\uBCF8.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -12484,6 +12844,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 358bcd50c430f7f42b41c5345bc6ea77
+    m_Address: "Assets/Sprites/Characters/BodyMale/\uD398\uCF54\uAC74\uB108_\uB0A8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 358c2d24fa90f834ca705ab173c58d1c
     m_Address: Assets/Maps/minimap/beach_dun.png
     m_ReadOnly: 0
@@ -12748,6 +13114,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 366d268d0b983bf4c98b2ad85a389f75
+    m_Address: Assets/Sprites/Monsters/coco.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 367b2857ff3e1b94aacbc5ce7388901b
     m_Address: Assets/Sprites/Cutins/16go_02.png
     m_ReadOnly: 0
@@ -12906,6 +13278,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 37346619f39dfd242978b66ea74dbe7f
     m_Address: Assets/Sprites/Npcs/rafflesia.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3735de5874518144fa2329056d388925
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBE14\uB8E8\uB9AC\uBCF8.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -13498,6 +13876,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39dea0225a802534c876b1a1c8b3390b
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBC14\uC774\uC2A4\uBE44\uC5B4\uD587.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 39e3a07a0b0e6cf48858eecdbd815a13
     m_Address: Assets/Sprites/Npcs/4_m_believer02.spr
     m_ReadOnly: 0
@@ -13638,6 +14022,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3a4ffcf2042eee44bb3bced593067b02
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uBC30\uD2C0\uC628\uB77C\uC77827.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a501678671b7c648b9aeb3318c8cbb8
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_baby_panda.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -14518,6 +14908,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e06cd9a4586e2447bc252d4925fa611
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC7AC\uADDC\uC5B4\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3e11a4cf17d1ce2459d4342c5f281404
     m_Address: Assets/Sprites/Cutins/paycana_a.png
     m_ReadOnly: 0
@@ -14607,6 +15003,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e767dc21c4092744a7a40fa6e2132f2
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC544\uD504\uB85C\uAC00\uBC1C_\uAC80\uC815.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3e7f3309a32e90a429e37504e4e06de9
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC218\uC5FC.spr"
@@ -14806,6 +15208,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f5d58effca5469439c69593b2458f08
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uC0C1\uC5B4\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3f7669ce4c2f9194b99931be7738a9cb
     m_Address: Assets/Sprites/Imported/Collections/Bread.png
     m_ReadOnly: 0
@@ -14920,11 +15328,23 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3fef52173e9c63b4a91a81f8ee44bfc4
+    m_Address: Assets/Sprites/Monsters/antique_firelock.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3ffa0cfb5b08e5f42a5593ddc216c405
     m_Address: Assets/Sprites/Cutins/nyuang_1.png
     m_ReadOnly: 0
     m_SerializedLabels:
     - Cutins
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ffac8c97e99b3b419fe0bcf703403ea
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uACE0\uB515\uD558\uD2B8\uC719\uBC34\uB4DC.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3ffb7fdc62af37d4e81bbcd9869e8a7f
     m_Address: Assets/Sprites/Imported/Collections/cardart_Executioner_Card.png
@@ -15309,6 +15729,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 410473d79f364d548a60b7d65c869691
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC775\uBA85\uC694\uCCAD.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4104fb3480028644ba6bf8b2ab88ee2a
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uD558\uC580\uBC40\uBAA8\uC790.spr"
     m_ReadOnly: 0
@@ -15512,6 +15938,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4202c752fb8356842aa88d9cc7d4c682
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBCBC\uB77D\uAD6C\uB984.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4203235fe34008142a230067bf613e88
     m_Address: Assets/Sprites/Cutins/penny-pink.png
@@ -16485,6 +16917,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46315b58918feca4dbe2133572c091cf
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBCA0\uB808\uBAA8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 46339969b3a840d4b84ed2a86fb3a8b2
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uACE0\uB515\uD558\uD2B8\uC719\uBC34\uB4DC.spr"
     m_ReadOnly: 0
@@ -16695,6 +17133,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47137e07044c296439846dbe6552e8fd
+    m_Address: "Assets/Sprites/Characters/BodyMale/\uACB0\uD63C_\uB0A8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4717cd71cc32e3643903bab29a86281a
     m_Address: Assets/Sprites/Imported/Collections/Pumpkin.png
     m_ReadOnly: 0
@@ -16757,6 +17201,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4742aae132e22684e8b1fa51261dee36
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBB34\uD1B5\uB77C\uC774\uD504_\uD30C\uB791.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 474586db4ee452a45acf10d06d3547fd
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_c_variant_veil.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -16941,6 +17391,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 480b42a062826484dbc6d9b8d322d9b6
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC904\uBB34\uB2AC\uBA38\uB9AC\uB760.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 480d11502b5c40d40a2e973a29e88a97
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uC300\uAC00\uB9C8\uB2C8\uBAA8\uC790.spr"
     m_ReadOnly: 0
@@ -17061,6 +17517,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 487ac72c921606d4184df3c2c87575a6
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC090\uCE68\uBA38\uB9AC_\uBE68\uAC15.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 487eb96c0611a484792e43b56c7fd3c2
     m_Address: "Assets/Sprites/Characters/BodyMale/\uD398\uCF54\uAC80\uC0AC_\uB0A8.spr"
     m_ReadOnly: 0
@@ -17075,6 +17537,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4892be83f4d56f147998d4ddf5bdb1bd
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uBE59\uC218\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48a5099677f63944491af708ce7291a7
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_c\uD3EC\uB9C1\uBC84\uBE14\uD30C\uC774\uD504.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -17219,6 +17687,18 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 493170cc22a29554e8cb02ae02004b78
     m_Address: Assets/Sprites/Monsters/metaller.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 493ae86fff60e384f806980a1facf201
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD558\uB298\uC0C9\uC655\uAD00.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4941eb10e2d08104eb50c22b1a6d0039
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBBF8\uB2C8\uAE00\uB798\uC2A4.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -17703,6 +18183,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4afbe14ceea98904282f70cbb606caa7
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC785\uC5D0\uBB34\uB294\uB538\uAE30.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4b04d26e91a956d48a0be134e443a2bf
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uC2A4\uCE74\uC774\uBA67.spr"
     m_ReadOnly: 0
@@ -17819,6 +18305,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4b96d75cd569ad04387c53ed0a996f82
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_c_poring_muffler.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b96efa4e596a0c4fb006d7f5b52b112
+    m_Address: "Assets/Sprites/Characters/BodyMale/cardinal_riding_\uB0A8.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -18129,6 +18621,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4caa101134e321a489e0970a2133e60b
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_fairy_feathers.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4caaeb9f99c84974cace4c3c86474653
     m_Address: Assets/Sprites/Cutins/lhz_ryo06.png
     m_ReadOnly: 0
@@ -18266,6 +18764,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Minimap
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d342cd9db070714689862282a162346
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC54C\uB78C\uAC00\uBA74.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4d381aaf35f44264c9f4f1515e4e552e
     m_Address: Assets/Sprites/Imported/Collections/Brave_Katar.png
@@ -18434,6 +18938,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Minimap
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e0e563201b95544baf7bf60ec07f174
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_drooping_omega.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4e20d3baae437644786f6acbba1afffa
     m_Address: Assets/Sprites/Cutins/ep14_nyd01.png
@@ -18789,6 +19299,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f652e4d88a4cc5478f7acf14ff8cf67
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_side_tail_bl.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4f658d1c471244c4999d43e4de4fcc93
     m_Address: Assets/Sprites/Monsters/red_mushroom.spr
     m_ReadOnly: 0
@@ -19064,6 +19580,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 509cab3e12dc8044eb1c34cbceab1d4a
+    m_Address: "Assets/Sprites/Characters/BodyMale/\uB8EC\uB098\uC774\uD2B8_\uB0A8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 50a1982ccc07cc94080e87b2faa484f4
     m_Address: Assets/Sprites/Npcs/4_m_job_wizard.spr
@@ -19499,6 +20021,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 52d651fef66b8854f8375d3e07d8ecb9
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uD30C\uD30C\uC0BD\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52dc15e1f1b05264a9fffaddde178422
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_side_pigtail_gn.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -20265,6 +20793,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56beeb195d2d9d646951a11b93b8e434
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBCF4\uB984\uB2EC.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 56c1cf924c4534f4795030250b7b2f1e
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_c_volume_low_twin_wh.spr"
     m_ReadOnly: 0
@@ -20397,6 +20931,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5726ec2c9c7d69c46b70c799099a5d2b
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC2EC\uC9C0.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 572c28f63d7b61044b24e0f751b7b1d2
     m_Address: "Assets/Sprites/Shields/Rogue/Female/\uB85C\uADF8_F_28942_\uBC29\uD328.spr"
     m_ReadOnly: 0
@@ -20411,6 +20951,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5739215f2b97450478401b0c09dfc095
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uBA38\uB9AC\uB048.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 574a272231e91a749ae9fa27c6f68e81
+    m_Address: "Assets/Sprites/Characters/BodyMale/\uBCF5\uC0AC\uC54C\uD30C\uCE74_\uB0A8.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -20553,6 +21099,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57de5d72c41a37441a0f48555fb88093
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_long_twin_bu.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 57e06da69b5122140807fd64ea031a04
     m_Address: Assets/Sprites/Npcs/4_m_lgtman.spr
     m_ReadOnly: 0
@@ -20651,6 +21203,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 584fb95333a6478448b993d78a879731
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_c_forest_guide.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5858c04693faa3041bc23d75fab90340
+    m_Address: "Assets/Sprites/Characters/BodyMale/\uB450\uAEBC\uBE44\uC18C\uC6B8\uB9C1\uCEE4_\uB0A8.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -21267,6 +21825,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b5edf64bdb600f428673ae5e5b9069f
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD30C\uB791\uD138\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5b6448b353e330c41b6a4d1f21fc9335
     m_Address: Assets/Sprites/Imported/Collections/Mage_Hat__.png
     m_ReadOnly: 0
@@ -21447,6 +22011,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5bfe6fc3033e2654787c4e14aea0e4b6
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD544\uB9AC\uB974\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5c0cf33238e3bf141bca59795ec3e6c4
     m_Address: Assets/Sprites/Imported/Collections/Skin_of_Ventus.png
     m_ReadOnly: 0
@@ -21509,6 +22079,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5c9982a399c8441448b0fbc27239d794
     m_Address: Assets/Sprites/Weapons/Merchant/Female/Merchant_F_1219.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ca319f880a371449b81343cc972034b
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_love_feeling.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -21825,6 +22401,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e0e2e6d96e79e74c9c3a6f6a37b7a06
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_spider_temp_tw.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5e15ebe1cb5cc184fa697ed701da679d
     m_Address: Assets/Sprites/Imported/Collections/Rolling_Stone.png
     m_ReadOnly: 0
@@ -21873,8 +22455,20 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e4abe1fdc445d94fb92e31a3c76b3a7
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC54C\uB77C\uB518\uC758\uB7A8\uD504.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5e53872131a1c4f4ba7260713187a624
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBC9A\uAF43\uD654\uAD00.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e553b8d90a23fd43886329935960faf
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_low_pony_wh.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -22005,6 +22599,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ee2a1a6022cea343826a0e454cdc703
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD574\uBC14\uB77C\uAE30\uD540.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5ee6fd2bd2a502044a51725aa972e06b
     m_Address: Assets/Sprites/Cutins/sc_vicente04.png
     m_ReadOnly: 0
@@ -22073,6 +22673,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5f12599f808ee7443ae97eb1b0af6651
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uC6D0\uC22D\uC774\uD138\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f1b82eb38b4aeb499a43d9fdfee5b43
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBC30\uD2C0\uC628\uB77C\uC77814.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -22214,6 +22820,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Cutins
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f9330673e00349449cd96429ad73ac8
+    m_Address: Assets/Sprites/Monsters/goat.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5f95a35ecf3be3d44b7ed70fcc1b1847
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB9E4\uC9C0\uC158\uC758\uB098\uC774\uD2B8\uCEA1.spr"
@@ -22533,6 +23145,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6116abeea8761b049a2f869bd3f0d4e9
+    m_Address: "Assets/Sprites/Characters/BodyMale/\uC0B0\uD0C0_\uB0A8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 61191cbcbc30a724a99910ecb6f057f2
     m_Address: Assets/Sprites/Imported/Collections/cardart_Dark_Priest_Card.png
     m_ReadOnly: 0
@@ -22598,6 +23216,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Cutins
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6152f92c01b46a14095823b3f77fe28f
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_blessing_sky_lantern.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 615f8582739c0b64ba15bc1d2bc977e4
     m_Address: Assets/Sprites/Imported/Collections/Cryo_Grenade.png
@@ -23283,6 +23907,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6424baacdcd76bb4aba5bad3c0851ece
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uBA38\uD050\uB9AC\uC758\uD22C\uAD6C.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 642ec0f1d34fbcf4baf011dc06b9982e
     m_Address: Assets/Sprites/Cutins/khkiel01.png
     m_ReadOnly: 0
@@ -23727,6 +24357,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66228473880fd614dadc60154b58411c
+    m_Address: "Assets/Sprites/Characters/BodyMale/\uC0AC\uC790\uB85C\uB4DC\uB098\uC774\uD2B8_\uB0A8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 662b7d2b7b6ce4d4cbfa51542488784e
     m_Address: Assets/Sprites/Cutins/white_choco.png
     m_ReadOnly: 0
@@ -23747,6 +24383,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 663afcf96abb22a46abc1f438d30d8ff
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c\uC804\uD22C\uC758\uD754\uC801.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6642960b49d9ed749abdfe342b5d3ba6
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC2A4\uB9C8\uC77C.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -23963,6 +24605,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 673a58fba91643147af03d1b37c98934
     m_Address: Assets/Sprites/Npcs/4_f_fairykid6.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 673f7a963f132f943818112a4f10cbf3
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC81C\uBBF8\uB2C8s58\uC758\uB208.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -24375,6 +25023,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68c78477b257afc4f9be1b8663fb8055
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_resonatetaego.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 68d94bdc734f3a84884f4da0329d767b
     m_Address: Assets/Sprites/Imported/Collections/Solar_Sword.png
     m_ReadOnly: 0
@@ -24503,6 +25157,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6965846abec6dcb4f947b0462d12be92
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c\uD3EC\uB9C1\uBC84\uBE14\uD30C\uC774\uD504.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69659d66663fb884d9a8d34f067b8707
+    m_Address: "Assets/Sprites/Characters/BodyMale/kagerou_\uB0A8.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -24686,6 +25346,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Cutins
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a87991ff65424c4bac70debdb0cb3ee
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_straight_long_yl.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6a95e3cc7ec500f4d9e40f167369a9ff
     m_Address: Assets/Sprites/Cutins/v_breid01.png
@@ -24907,6 +25573,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ba27fd9020c55a43bad888339090eb3
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC5F0\uAE08\uC220\uC0AC\uB9C8\uC2A4\uD06C.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6bafae01b16e8f447b55c8ba336ff91a
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC0AC\uB610\uBAA8\uC790.spr"
@@ -25186,6 +25858,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6cbc3a14a72029346b0bfec4120578cf
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uB099\uC6D0\uB2E8\uBAA8\uC790100.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cc0fd71c8f6c394188a21ef0594356d
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC0DD\uC120\uBAA8\uC790.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -25735,6 +26413,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f56007f7443d304a82bcb5fdca63446
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uD398\uB974\uC2DC\uCE74.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6f56574f6cff5c34eae79b9ad6a3aeeb
     m_Address: Assets/Sprites/Imported/Collections/cardart_Grizzly_Card.png
     m_ReadOnly: 0
@@ -25945,6 +26629,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 702bc816902d2f444ac383acbee37b7b
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD45C\uBC94\uBB34\uB2AC\uADC0\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 70309779695890343a424ad27d9fbdde
     m_Address: Assets/Sprites/Npcs/kobold_1.spr
     m_ReadOnly: 0
@@ -25959,6 +26649,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7033e326d7dce3147ba7d858c323180b
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_fluffy_semi_long.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7038eb8712981c54c95b64cac0f3e401
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c\uACE8\uB4DC\uC0E4\uC6CC.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -26593,6 +27289,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72bf523469756684297781c9e161de3e
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD070\uD558\uC774\uBE44\uC2A4\uCEE4\uC2A4.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 72c045d69bdbd77419f3ae7116d57a93
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC18C\uC6D0\uC885\uC774\uBAA8\uC790.spr"
     m_ReadOnly: 0
@@ -26631,6 +27333,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 72e82930af48e2b43ad7146532d8bd64
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_cat_ear_hat_white.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72ea1fe23e96843419f22e57923b0f2b
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_ra_hair_pk.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -26845,6 +27553,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73c0dbf3b20727f4f9a34f50aff84538
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD53C\uC790\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 73cb9ace60448ac4f93bd18db0f8bc1c
     m_Address: Assets/Maps/minimap/prt_monk.png
     m_ReadOnly: 0
@@ -27031,6 +27745,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74db332ddeac5ca41b25fb208be7958d
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC810\uC131\uC220\uC0AC\uC758\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 74dda61c0b223ac458f92f1c542bd78c
     m_Address: Assets/Maps/minimap/yuno_fild02.png
     m_ReadOnly: 0
@@ -27216,6 +27936,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75af8aeadbee0004a94feb268d5e28fd
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB8E8\uB3CC\uD504\uC0B0\uD0C0\uBAA8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 75b538b09a366204ca2c2d91748d1c98
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC090\uCE68\uBA38\uB9AC_\uD30C\uB791.spr"
@@ -27600,6 +28326,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 773caa7c8cfe5d940b5bfc0d93a60f2a
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD30C\uB780\uC5D4\uC824\uB9C1\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7747a13653b38c14e9d465863bb0528e
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uB8E8\uB4DC\uD6C4\uB4DC.spr"
@@ -28262,6 +28994,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7a57ceb31508e634d93001f9e7c84c47
     m_Address: "Assets/Sprites/Characters/BodyMale/\uAD8C\uC131\uC735\uD569_\uB0A8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a5aa5cb1ccffa242b4ae191c4ba96a8
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBAA9\uB9D0.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -29057,6 +29795,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d9db34a72bbae04fb4dc55a53072879
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_piamette_roll_hair_sv.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7da61c0768dc65a4488fe142c83495e8
     m_Address: Assets/Sprites/Imported/Collections/Bao.png
     m_ReadOnly: 0
@@ -29207,6 +29951,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e5faa6527e43ed408958267a7063b4f
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC120\uAE00\uB798\uC2A4.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7e63ec2cc1efb6d4ba80bab88ddb956a
     m_Address: Assets/Sprites/Cutins/cat_g_win.png
     m_ReadOnly: 0
@@ -29215,6 +29965,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7e65edbad87597b4b97c207edb8b9f4a
     m_Address: Assets/Sprites/Monsters/shellfish.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e9839c68ff134e4f8945a21c765659e
+    m_Address: "Assets/Sprites/Characters/BodyMale/\uC81C\uCCA0\uACF5\uBA67\uB3FC\uC9C0_\uB0A8.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -29281,6 +30037,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7edc923ff299646449c1f674e71f3193
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC544\uD504\uB85C\uAC00\uBC1C_\uB178\uB791.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ee331f94b81a65429c935bdafb22c07
+    m_Address: Assets/Sprites/Monsters/cookie.spr
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -29807,6 +30569,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80fabc7f7ff6f894a8adce822f2578b1
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_c_side_tail_yl.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 80fc2dec6c8d7654687c866791e1b01f
     m_Address: Assets/Sprites/Cutins/bu_oliver4.png
     m_ReadOnly: 0
@@ -29875,6 +30643,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8125890cbf356dc47b7950793be6ac5d
     m_Address: Assets/Sprites/Npcs/4_m_umsoldier.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8127ccfd70ab10e4fbcbb1454982c026
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_khalitzburg_kn_helm_bl.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -29951,6 +30725,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8171924c331f67b49afe9ad1cab9b641
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_variant_veil.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8172bbc53075c6f498e1c8300365213b
     m_Address: Assets/Maps/minimap/pay_fild04.png
     m_ReadOnly: 0
@@ -29993,6 +30773,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 818fbcc026f6e4b419539293ed275df7
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_side_tail_gn.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 81af5907d9b6a314cb403a99319d36ac
     m_Address: Assets/Sprites/Npcs/4_cenere.spr
     m_ReadOnly: 0
@@ -30019,6 +30805,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 81d6a05f3d8f8fb48b2bbab9e546666a
     m_Address: "Assets/Sprites/Characters/BodyMale/shadow_cross_riding_\uB0A8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81da3e529e1f88841a439ab97f8e5f73
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB77C\uBA74\uBAA8\uC790_\uBE14\uB799.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -30076,6 +30868,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Cutins
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82225d87fb49b5940aa80d271b743cdd
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB2E4\uB78C\uC950\uADC0\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 82384cc2291183447b77843dade7d01a
     m_Address: Assets/Sprites/Npcs/4_m_cactuschild.spr
@@ -30215,6 +31013,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82c0511dcbd650240805eae78b7d2a3d
+    m_Address: "Assets/Sprites/Characters/BodyMale/\uC0AC\uC790\uD314\uB77C\uB518_\uB0A8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 82cc98c1396bc9e46b2c6f87de87c6de
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC2A4\uD2B8\uB808\uC774\uD2B8\uD3EC\uB2C8_\uBE68\uAC15.spr"
     m_ReadOnly: 0
@@ -30226,6 +31030,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82ce0866de64bb04bad25f866f4ecc68
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uC0AC\uC548\uBD09\uC778\uC758\uBD95\uB300.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 82d3564f8e860fd49959086a350f91b2
     m_Address: Assets/Sprites/Npcs/4_magaleta.spr
@@ -30244,6 +31054,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82ec064a92726ff40b19265e8aa3c72e
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB178\uBE14\uD587.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 82fbe831a9b123d4c9d76a93a2169ad3
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uBC00\uC9DA\uBAA8\uC790.spr"
@@ -30448,6 +31264,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83e7e8e7e80d0bc4f8a9e4cdb1c4c444
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD074\uB798\uC2DD\uD587.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 83e834eedd0e58045bc22cd8ea36c75d
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_lovely_heart_cap.spr"
     m_ReadOnly: 0
@@ -30483,6 +31305,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 842ef73b2a490e641b26d5d71ded7281
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_rwc\uC2B9\uB9AC\uC758\uC655\uAD00_\uBE68\uAC15.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 844d70b80a77f0b41ad0420bd662a343
     m_Address: Assets/Sprites/Imported/Collections/cardart_Mobster_Card.png
@@ -30537,6 +31365,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Cutins
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 848377221923e554a8a454661e3598b1
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBD88\uAC00\uC0AC\uB9AC\uBA38\uB9AC\uB760.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 849625ae719810f47a58c489ad9c2d99
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB784\uD504\uD3F0\uC9C0\uAC8C666\uC138.spr"
@@ -30783,6 +31617,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Cutins
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85a635f1f4976a14790838c5c0002a9f
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_rose_gothic_bonnet.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 85adbd712e9c20a4ea53e773dd662658
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB9C8\uC220\uC0AC\uC758\uBAA8\uC790.spr"
@@ -31558,6 +32398,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88b2f3939712c6946b6f990aa5296d31
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC624\uB798\uB41C\uD551\uD06C\uC0C9\uAC70\uC2DC\uAE30.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 88b3d700f6f6d3948a4b055609039053
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_mini_melon.spr"
     m_ReadOnly: 0
@@ -31624,6 +32470,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88f9feee98acc204396cddb87ad114be
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB3C8\uC744\uC783\uC740\uC790\uC758\uB9C8\uC74C.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 890226a6170e601478ca0f64649d2f4b
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_noblesse_attack_ring.spr"
     m_ReadOnly: 0
@@ -31653,6 +32505,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 891cdf6a792653449878d86e85af2a0e
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_witchmanteau.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8920cc70131499e4a89afaf470fa7645
     m_Address: Assets/Maps/minimap/prt_sewb3.png
@@ -31738,6 +32596,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8987e075b29514f418199ba05f0e98f2
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC564\uD2F0\uD06C\uB2F4\uBC43\uB300.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 89882ea1d694a83458e5dac408904b1f
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uD14C\uC77C\uD587.spr"
     m_ReadOnly: 0
@@ -31749,6 +32613,18 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 898c5886510f81c49afa427d8b966ab8
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_poporing_muffler.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 898d198c21786e840864b0309772cf3a
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC545\uB9C8\uC758\uB0A0\uAC1C.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 898d9dc24184de7448ebfad1d09981fc
     m_Address: Assets/Sprites/Imported/Collections/Aquamarine.png
@@ -32038,6 +32914,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8aa3baf06739704458d3d61f319f70ca
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uBA38\uBA54\uC774\uB4DC\uD5E4\uB4DC\uD3F0.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8aa5a35304478d74d9fbcdf440dfcff1
     m_Address: Assets/Sprites/Imported/Collections/Sinew_of_Bear.png
     m_ReadOnly: 0
@@ -32116,6 +32998,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ae0e455259bb9b49ac6e0ec177bec7f
+    m_Address: Assets/Sprites/Monsters/blue_plant.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8ae1255aa2d7d154e85c5c5f108042a7
     m_Address: Assets/Maps/minimap/gl_dun02.png
     m_ReadOnly: 0
@@ -32142,6 +33030,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8aefce1391f6bb845954a5b4d03d872c
     m_Address: "Assets/Sprites/Weapons/Swordsman/Female/Swordsman_F_\uD074\uB7FD.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b0dbf2882bb38d4c904592550b106b1
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBC84\uC12F\uBA38\uB9AC\uB760.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -32394,6 +33288,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8becf7c9403d59f45bed6afcd42a7779
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBA54\uAE34\uCEA1.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8bf353b33e51db547a9a3aa9624e228b
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_charcoal_stove.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -32914,6 +33814,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e70fd263c715b242bc73cd517ad78a7
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD669\uB8E1\uC758\uD558\uB298\uB0A0\uAC1C.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8e7b28c4fc27de84c842d7a284095d2f
     m_Address: "Assets/Sprites/Characters/BodyFemale/\uC0AC\uC790\uB85C\uB4DC\uB098\uC774\uD2B8_\uC5EC.spr"
     m_ReadOnly: 0
@@ -33198,6 +34104,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8f77f320f3fdd0549a5f89990c756f27
     m_Address: Assets/Sprites/Weapons/Archer/Female/Archer_F_1715.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f7c5515ef410664f8759575e0f67d0e
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB3C4\uAE68\uBE44\uBAA8\uC790.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -33724,8 +34636,20 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91b21fb4227ea8d4da5e61c8d53b9485
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC544\uBC84\uC9C0\uC0AC\uB7912013.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 91b76750c9ef3a7479f975017f8295c1
     m_Address: "Assets/Sprites/Characters/BodyFemale/\uACB0\uD63C_\uC5EC.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91c5401f36823c748977cd5f3c810ac6
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uBC99\uAC70\uC9C0\uBAA8\uC790.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -33738,6 +34662,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 91c5c150e5de04e4d8d3d5e0064ab451
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC2A4\uB098\uC774\uD37C\uACE0\uAE00.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91c808e734931424f9dec9384f35f5a6
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB9C8\uAC08\uAD81\uBCF4\uAD00.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -34030,6 +34960,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93003ab7ce33ac649803ff2c72c90e97
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_wl_hair_bu.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9301a030b7d34fc4fb5a0d4efd53ec23
     m_Address: Assets/Sprites/Cutins/nale02.png
     m_ReadOnly: 0
@@ -34198,6 +35134,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 939c0ce13e356b5439cfe4764f954bcb
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC544\uC694\uD0C0\uC57C\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 93acecdb76938084589761532d232f37
     m_Address: Assets/Sprites/Npcs/4_m_fairykid4.spr
     m_ReadOnly: 0
@@ -34206,6 +35148,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 93ae38dee00596d448da3a6ae7d2b218
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uD1F4\uB9C8\uC758\uAE00\uB798\uC2A4.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93b9dd2854159984e80e73ff4aeea7a3
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_forest_guide.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -34366,6 +35314,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94488e06cbee20c47a429470acf63c67
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uCD08\uC2B9\uB2EC\uD22C\uAD6C.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9449f7976fe897240be2e1095d1f70b6
     m_Address: Assets/Sprites/Npcs/4_f_chndress3.spr
     m_ReadOnly: 0
@@ -34503,6 +35457,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Minimap
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94a835d0d8d67d54eb2666410b2781fa
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uAC31\uC2A4\uCE74\uD504.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 94ace79f5de223646bec4fec527147dc
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD68C\uC0C9\uB9C8\uBC95\uC0AC\uC758\uBAA8\uC790.spr"
@@ -34672,6 +35632,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 958c8113dd848794f9b6632b7d1a85ca
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB9C8\uBC95\uC0AC\uC758\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9593246a88703ad4f9254d49d1ce129d
     m_Address: "Assets/Sprites/Characters/BodyMale/\uC138\uC774\uC9C0_\uB0A8.spr"
     m_ReadOnly: 0
@@ -34744,6 +35710,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Minimap
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95d6377748f47574f9f16d57294acf12
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_c_side_tail_wh.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 95dbf05cbde56dd449d174f37c4f41cf
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uB2EC\uCF64\uD55C\uCD08\uCF5C\uB9BF\uBAA8\uC790.spr"
     m_ReadOnly: 0
@@ -34804,6 +35776,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 960cf0c74bb77ae49bee8724e15f0c5e
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_electro_two_side_up.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 96197eb63b1a9ab4f9567b4a760c1433
     m_Address: Assets/Sprites/Imported/Collections/cardart_Chimera_Card.png
     m_ReadOnly: 0
@@ -34842,6 +35820,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 963d0f4830740df49b6f03591dcce3e9
     m_Address: Assets/Sprites/Weapons/Swordsman/Male/Swordsman_M_1461.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 963dff4aefc441147ad02526a34de0af
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC545\uB9C8\uB0A0\uAC1C\uADC0.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -35260,6 +36244,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 980474e411f700f48ba6557bc80ccf9f
+    m_Address: "Assets/Sprites/Characters/BodyMale/\uCC3D\uC6A9\uBCD1.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9807b9b0a4f698f4cb7dc12b72edce35
     m_Address: Assets/Maps/minimap/gl_cas01_walkmask.png
     m_ReadOnly: 0
@@ -35283,6 +36273,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 982816a8a079c4b4bb740255d853d98a
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC8FD\uC740\uC790\uC758\uB450\uAC74.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9828dae9bb3f33c4e893294a319ccbde
     m_Address: Assets/Sprites/Imported/Collections/China.png
@@ -35397,6 +36393,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98a8c16f0933cb24188384436555ecab
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_wonder_egg_basket.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 98acf098ef76e194ab77b969fc1f9404
     m_Address: Assets/Sprites/Weapons/Thief/Female/Thief_F_20174.spr
@@ -35842,6 +36844,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a2d17049529e794ea9e1206627952af
+    m_Address: "Assets/Sprites/Characters/BodyMale/\uC0AC\uC790\uAE30\uC0AC_\uB0A8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9a2d608053db76548b3c8bb204140c0a
     m_Address: Assets/Sprites/Imported/Collections/Jungle_Carbine.png
     m_ReadOnly: 0
@@ -35997,6 +37005,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Cutins
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b177072f7d980d47a87f31f2d0b9e5d
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC120\uC7A5\uC758\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9b186af85942fd44190b857f50f849b1
     m_Address: "Assets/Sprites/Shields/Assassin/Male/\uC5B4\uC138\uC2E0_M_28945_\uBC29\uD328.spr"
@@ -36280,6 +37294,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c3f8e7634359414c96d1227523f2794
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC7A5\uB09C\uAFB8\uB7EC\uAE30\uC694\uC815.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9c44920b407c6654fb0e5bc71892d04f
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC790\uC138\uAD50\uC815\uBAA8\uC790.spr"
     m_ReadOnly: 0
@@ -36330,6 +37350,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9c74fd1934916ed469b8c4037ee60258
     m_Address: "Assets/Sprites/Characters/BodyFemale/imperial_guard_riding_\uC5EC.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c8c0877c0af62649ad7841c7e84d219
+    m_Address: Assets/Sprites/Monsters/gobline_xmas.spr
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -36405,6 +37431,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cec378791671054aa04a04018bca791
+    m_Address: "Assets/Sprites/Characters/BodyMale/\uD0DC\uAD8C\uC18C\uB144\uD3EC\uB9C1_\uB0A8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9cf4fb78aedb2674dab4e68e574c261d
     m_Address: Assets/Sprites/Imported/Collections/Ivory_Knife.png
@@ -36651,6 +37683,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Minimap
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9de133c0f5cd8b14abdb59fc4958b130
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC2DD\uC778\uAF43\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9de9026bcb1e2d94f9a9bdf333da53aa
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC785\uC5D0\uBB34\uB294\uBC9A\uAF43\uAC00\uC9C0.spr"
@@ -37006,6 +38044,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f42e3f11320e9041aed48c93ae10927
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uCC9C\uC0AC\uD559\uC0DD\uBAA8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9f4903c492993424693fd8ba04b1d473
     m_Address: Assets/Sprites/Cutins/god_tialpi02.png
     m_ReadOnly: 0
@@ -37035,6 +38079,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f813824c2d097b43be49d73b3f5799a
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_angel_mini_silk_hat_b.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9f823f6fe4ed9d447903cb719324250a
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_angel_mini_silk_hat_b.spr"
@@ -37068,6 +38118,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9f96a9e453cea344dbd2ffa6b9b6fcc4
     m_Address: Assets/Sprites/Monsters/dragon_tail.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f9a63a5f573fd047988dd29553f843e
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBC1C\uB80C\uD0C0\uC778\uBAA8\uC790.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -37532,6 +38588,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a15f4959793fbde47b5d779808c0f4d5
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD5CC\uD305\uCEA1.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a178e988f4197024288648379eec38b0
     m_Address: Assets/Sprites/Weapons/Archer/Female/Archer_F_1711.spr
     m_ReadOnly: 0
@@ -37657,6 +38719,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a23493a123f9c464ba974897b519c34d
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB298\uC5B4\uC9C4\uD558\uC580\uACE0\uC591\uC774.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a236af53f62f0f84a96b5e3d0fe3d081
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uBD84\uB178\uC785.spr"
@@ -38036,6 +39104,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3e0ae94f16a2d446ba02674f7e239c3
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB4DC\uC6CC\uD504\uC218\uC5FC.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a3ed5b1f9fa0b2b4aac5b1cdf052f374
     m_Address: Assets/Sprites/Imported/Collections/Oxygen_Mask.png
     m_ReadOnly: 0
@@ -38276,6 +39350,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4e52c2f65857f64f9e478be33db2303
+    m_Address: Assets/Sprites/Monsters/driller.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a4e8114a56efe4d438571937be300aa5
     m_Address: Assets/Sprites/Imported/Collections/Token_of_King.png
     m_ReadOnly: 0
@@ -38348,6 +39428,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5385f740b3cbd9448593aac1d53359c
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC0B0\uD0C0\uC778\uD615\uBA38\uB9AC\uB760.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a53a523c83ae03f4cab75985b0bd578d
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uBC30\uD2C0\uC628\uB77C\uC77811.spr"
     m_ReadOnly: 0
@@ -38402,6 +39488,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a575689b05fb24d42893b423b579ebed
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_black_fox_ear_ribbon.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a576760a885341f4abcaebc375b802c9
     m_Address: Assets/Sprites/Imported/Collections/Burnt_Tree.png
     m_ReadOnly: 0
@@ -38410,6 +39502,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a57bcf19dc9fcd74999a14397a71e5e5
     m_Address: Assets/Sprites/Npcs/4_m_dewman.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a58108cb05da64e43891285b45a9909b
+    m_Address: "Assets/Sprites/Characters/BodyMale/\uD654\uC774\uD2B8\uC2A4\uBBF8\uC2A4_\uB0A8.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -38431,6 +39529,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a59d44f372e5d9946865eabe17bd70a5
+    m_Address: "Assets/Sprites/Characters/BodyMale/\uCC54\uD53C\uC628\uC54C\uD30C\uCE74_\uB0A8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a5a186e98c60b6f4c8ea29dc25070880
     m_Address: Assets/Sprites/Monsters/poporing.spr
@@ -38830,6 +39934,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a7700b9feddd0e64b95e0b971443e3f2
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_fawn_ear.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a773cf348af1f374eaad6cb0f622021d
+    m_Address: "Assets/Sprites/Characters/BodyMale/\uB8EC\uB098\uC774\uD2B8\uC058\uB7602_\uB0A8.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -39290,6 +40400,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9777f5eb0514d44e8d94be104e2a425
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC544\uC774\uC2A4\uD06C\uB9BC\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a97a82238e0043942996a0e3777f23b8
     m_Address: Assets/Sprites/Npcs/4_f_twmidwoman.spr
     m_ReadOnly: 0
@@ -39393,6 +40509,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a9eeacd0363d35240ab1315290375eb0
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC0AC\uB791\uC758\uC870\uAC01.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9f7d6a43b34abf4c923f0fc84f9d0e3
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD574\uB2EC\uBAA8\uC790.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -40135,6 +41257,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: adc037827d6552842b0455e060e26c2a
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uAC80\uC740\uD14C\uC77C\uB9AC\uBCF8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: adcc9e2b1700d6f4bb8e693c53e62bce
     m_Address: Assets/Maps/minimap/moc_fild15_walkmask.png
     m_ReadOnly: 0
@@ -40257,6 +41385,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ae44091d6f542af45a299c44e1b3b83d
     m_Address: "Assets/Sprites/Shields/Hunter/Male/\uD5CC\uD130_M_28945_\uBC29\uD328.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae459533777069541a423262fb1f4f08
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBCF4\uACE0\uC788\uC5B4.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -40644,6 +41778,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af79504c8d89c314f84f2c015ddc5d7a
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_lolita_two_side_up.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: af81633a0459a184096ecd00e5d2278c
     m_Address: Assets/Sprites/Cutins/igu03.png
@@ -41107,6 +42247,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1f34a940e6cd7349afced18c2f38bad
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBE44\uD589\uB0A0\uAC1C\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b1fa61544cc0d2e4ab911d8a27431716
     m_Address: Assets/Sprites/Npcs/green_plant.spr
     m_ReadOnly: 0
@@ -41358,6 +42504,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2ddacb386970dd4d9063fcfa56efe3d
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uAF43\uBA38\uB9AC\uB760.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b2e40451c0cde2542823d473fdea6081
     m_Address: Assets/Sprites/Cutins/ra_bishop.png
     m_ReadOnly: 0
@@ -41567,6 +42719,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Cutins
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3edf85cd8a9e4742bb72465e5e90e72
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_master_cat.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b3f2888080d212144b8916543da45210
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uBC14\uB2E4\uCEA1\uD2F4\uBAA8\uC790.spr"
@@ -41832,6 +42990,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b541b1f56a6bbd042bcce260e8995d38
+    m_Address: Assets/Sprites/Monsters/incubus.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b545cbb4d6c2c55489faffb940c2d12e
     m_Address: "Assets/Sprites/Characters/BodyFemale/\uCC54\uD53C\uC628_\uC5EC.spr"
     m_ReadOnly: 0
@@ -41898,6 +43062,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b591df44ef652554fa870aba383fe797
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC560\uB2C8\uBC84\uC11C\uB9AC\uBCC4\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b59cb58a80e2bcd4c9d0466755a2b140
     m_Address: Assets/Maps/minimap/c_tower1_walkmask.png
     m_ReadOnly: 0
@@ -41927,6 +43097,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Cutins
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5b9e669fcbd39e4e9cfa8dbae6cbb6e
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_low_pony_rd.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b5c2d0fa3d087e9468d6d1324167bdfd
     m_Address: Assets/Sprites/Imported/Collections/Corsair.png
@@ -42174,6 +43350,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6d2e6fa2990b8240a9042176d605a37
+    m_Address: "Assets/Sprites/Characters/BodyMale/peco_rebellion_\uB0A8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b6daee9d3edd6b84e8723c869c0a6222
     m_Address: Assets/Sprites/Cutins/ep14_pro_worm.png
     m_ReadOnly: 0
@@ -42230,6 +43412,18 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b71d8c1abf3ce6649ae0e07017d88c88
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uD589\uBCF5\uD3C9\uD654\uC758\uC99D\uD45C.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b720022d967ab734d88dedebca76acb4
+    m_Address: "Assets/Sprites/Characters/BodyMale/\uC6B4\uC601\uC7902_\uB0A8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b730d048d0897b94b9cfeb31d8cbe5a5
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC54C\uD30C\uCE74\uD6C4\uB4DC.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -42446,6 +43640,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b80d4c094f1797842a23b49641da0129
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uC218\uB77C\uC655\uC758\uB450\uAC74.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8127ea73bc648d46966b43dbbdef8b5
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uCC9C\uC0AC\uC758\uD22C\uAD6C.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -43218,6 +44418,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb9140de4f84d804bba5f3575eaa19cb
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC544\uC0AC\uB77C\uC694\uC815\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bb919e301485b4c47bfc29c93ce75131
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uC5D8\uB808\uB178\uC544\uAC00\uBC1C.spr"
     m_ReadOnly: 0
@@ -43962,6 +45168,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: befd1d36988b35041b887d0d0f6c4264
+    m_Address: "Assets/Sprites/Characters/BodyMale/\uC5EC\uC6B0\uD558\uC774\uC704\uC800\uB4DC_\uB0A8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bf18e3334fbaa04499b13047d847bde6
     m_Address: Assets/Sprites/Cutins/177_04.png
     m_ReadOnly: 0
@@ -44099,6 +45311,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfb8dfe6e9a23434ab1d7c3d99a4ed9a
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC8FC\uC0AC\uC704\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bfba0138b921d9341be906817ff945fa
     m_Address: Assets/Sprites/Imported/Collections/cardart_Venomous_Card.png
@@ -44388,6 +45606,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0feda221d5cbe74a8f55e36fc789b50
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uAC15\uB839\uC220\uC0AC\uC758\uB450\uAC74.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c10520c3d68828445ba79acf8099ef8f
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uBE68\uAC15\uB9C8\uBC95\uC0AC\uC758\uBAA8\uC790.spr"
     m_ReadOnly: 0
@@ -44399,6 +45623,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c105a42202b69e644a61c97eeaa62ef2
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB0A8\uD3EC\uB9C1\uADC0\uC7A5\uC2DD.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c10a981faff559b499c034882e64cef0
     m_Address: Assets/Sprites/Npcs/4_f_taekwon.spr
@@ -45048,6 +46278,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3af2cc0d003be342a0017d8ac1ef9b7
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBC30\uD2C0\uC628\uB77C\uC77820.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c3b0124ee27ded34286b42070c029adf
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uB179\uC0C9\uD3EC\uB9C1\uBA38\uB9AC\uD540.spr"
     m_ReadOnly: 0
@@ -45438,6 +46674,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5d3d72888739d34f85c7c208470d3c6
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB9AC\uBCF8\uB9C8\uC220\uC0AC\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c5e3b3a1d763e7f47bc8770cef15e4b7
     m_Address: Assets/Maps/minimap/iz_dun02.png
     m_ReadOnly: 0
@@ -45467,6 +46709,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Effect
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c607939d91a22a94b8a85d5155b570c9
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB77C\uC988\uBCA0\uB9AC\uBB34\uC2A4\uD587.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c628c8632f16ebd4aac87877eda591ff
     m_Address: Assets/Sprites/Cutins/1.png
@@ -45522,6 +46770,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6598e9a4647e6a4ea83baf7f79e5d13
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB85C\uB4DC\uC11C\uD074\uB9BF.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c668800cdce51784994c6168a2c184d7
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uB3C8\uC783\uC740\uC790\uC758\uB9C8\uC74C.spr"
     m_ReadOnly: 0
@@ -45536,6 +46790,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c66fdbb303114d74789f60ddebb8c9af
     m_Address: Assets/Sprites/Npcs/1_m_hof.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c681ee38aa4cfc94082ec48719bc0325
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC0AC\uC790\uD0C8.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -45606,6 +46866,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6bc8b832179247439cfdcc12080f4ec
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB85C\uD0A4\uC758\uC5B4\uC314\uC2E0\uB9C8\uC2A4\uD06C.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c6c49cd257e8cf64a8a164ad71b4abcb
     m_Address: Assets/Sprites/Imported/Collections/Grape_Juice_Herbal_Tea.png
     m_ReadOnly: 0
@@ -45638,6 +46904,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c6d208c392080f24b9477ab07e16f785
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_rtc3\uB4F1\uD22C\uAD6C.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6d6b919d208b3647a236cc5b419a2bd
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_vassalage_necklace.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -45680,6 +46952,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c6fe21f27f082ad4b94014e923668d47
     m_Address: Assets/Sprites/Npcs/4w_m_03.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c70cb2c0e25bf4f4faaba09de8ff4b7e
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_cons_of_darkness.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -45992,6 +47270,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c85d0a49fcf467f46b34cc1d86fa234e
     m_Address: Assets/Sprites/Npcs/4_m_nfdeadman2.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c87960b65061a7e408265251038212ca
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC0B0\uD0C0\uD3EC\uB9C1\uBAA8\uC790.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -46434,6 +47718,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca2f26bd4bf9a9447984dfbe919357b6
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uACE0\uC2A4\uD2B8\uB9C1\uD1A8\uD587.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ca309f5825a1f9044b25eba79d49d1af
     m_Address: Assets/Sprites/Weapons/Thief/Male/Thief_M_1238.spr
     m_ReadOnly: 0
@@ -46560,6 +47850,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cabaf04bb27331743a8d28212514faed
+    m_Address: "Assets/Sprites/Characters/BodyMale/imperial_guard_chicken_\uB0A8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cac03b27ac4999041ae7f9b55ec3dcba
     m_Address: Assets/Sprites/Cutins/lumin_ac_01.png
     m_ReadOnly: 0
@@ -46673,6 +47969,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb26fb8bc1521554ea9efa10edc5fe5e
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD3EC\uD2F0\uC5B4\uC758\uAC00\uBA74.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cb3e3a4753c477b4dab34cd8374971e9
     m_Address: Assets/Sprites/Cutins/soul_van01.png
@@ -46890,6 +48192,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc22f66a3b98f7f4fa94584aee473b77
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD30C\uB780\uC591\uAC08\uB798\uC0B0\uD0C0\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cc2a382f34bc7224dba173ea50043bdf
     m_Address: Assets/Sprites/Imported/Collections/Monster_Juice.png
     m_ReadOnly: 0
@@ -46950,6 +48258,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc4d9bcab0359534daf197bcd885a5f8
+    m_Address: Assets/Sprites/Monsters/marc.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cc5a874be3498cf40b9568ff5a30c3b2
     m_Address: Assets/Sprites/Cutins/soul_van04.png
     m_ReadOnly: 0
@@ -46973,6 +48287,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Cutins
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc6b0697d73345843966135991301f46
+    m_Address: "Assets/Sprites/Characters/BodyMale/wolf_windhawk_\uB0A8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cc6f36bc827dc8d498c490e62b127066
     m_Address: Assets/Sprites/Npcs/4_m_monk.spr
@@ -47294,6 +48614,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cde4b76b20eb27d4eae694c860f7da81
     m_Address: Assets/Sprites/Weapons/Swordsman/Female/Swordsman_F_1220.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cde85efa730daba449d7737bcd2bc016
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB9AC\uBCF8_\uB178\uB791.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -48084,6 +49410,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d196af7e721d4f24487ff509eccd6516
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD0C0\uB808\uB124\uCF54\uD06C\uB8E8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d19a9bcabbd5ad148b693cd07f492527
     m_Address: Assets/Sprites/Weapons/Thief/Female/Thief_F_1217.spr
     m_ReadOnly: 0
@@ -48113,6 +49445,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Effect
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1ab4d636fea7dd469c3b27e867e11ce
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBCF4\uB530\uB9AC\uBAA8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d1ac1f00ba69b8f41abb921a186ce48f
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uBD80\uC720\uD558\uB294\uC5BC\uC74C.spr"
@@ -48236,6 +49574,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d1ff192b5b17fdf4a8aa54e9a5c95846
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uAD34\uB3C4\uC758\uC678\uB208\uC548\uACBD.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d20970528eeac124186649a78237aa68
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_beachball.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -49367,6 +50711,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d679ee52aaeb4114bbbb76329c5b2dd2
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uAE4C\uB9C8\uADC0\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d67b00916a76be74fb1b69228aa3b1aa
     m_Address: Assets/Sprites/Npcs/sand_man.spr
     m_ReadOnly: 0
@@ -49433,8 +50783,32 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6ee792ac246f04428915044dcc85f8b
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_snow_fox.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6f0cbad0b8295d4f8ef8b1abaa1ae4a
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBE75\uBD09\uD22C1.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d701bd9df52d84b4f93bcc929764c550
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB9C8\uC81C\uC2A4\uD2F1\uACE0\uC6B0\uD2B8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d705fb6c36869c54488b639cac80566b
     m_Address: Assets/Sprites/Npcs/4_f_fairykid5.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d707284f0b99a4f428fa05f8109abec0
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uACE0\uC591\uC774\uC785.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -49829,6 +51203,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8b26077e86eb8144a44cb0d6696156c
+    m_Address: Assets/Sprites/Monsters/maya_puple.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d8bc6ff5a2494d14094b4b06a15b9b66
     m_Address: Assets/Sprites/Cutins/prm_5.png
     m_ReadOnly: 0
@@ -49915,6 +51295,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d8e4907f7e4825e4d9ff47f5464298d0
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uC120\uC778\uC7A5\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8e676aa18e8ca84f9994720cbb939ee
+    m_Address: Assets/Sprites/Weapons/Swordsman/Male/Swordsman_M_1185.spr
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -50033,6 +51419,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d95382d871728354bbc97a78b2e75a8c
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_rabbit_winged_robe.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d959197ff39e0d343a6792e23e4959a7
     m_Address: Assets/Maps/minimap/in_sphinx2_walkmask.png
     m_ReadOnly: 0
@@ -50074,6 +51466,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9865bd2afe9a154eb740e9fc34592d7
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_citrusribbon.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d98abe8b29e4d334bb822c5499100d04
     m_Address: Assets/Sprites/Cutins/2013_summer_prt_4.png
@@ -50177,6 +51575,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9f30eef5894c6d40bcb25f50e122c04
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC720\uC778\uC6D0\uB9C8\uC2A4\uD06C.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d9f7284387fd3c148ba19b5f6954a15c
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_openair_headset.spr"
     m_ReadOnly: 0
@@ -50213,6 +51617,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da089d244fb64d04db4884c23b7d987f
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uCE74\uB77C\uB2E4\uBA54\uAD6C\uB9AC\uCC28\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: da0a6fb3bd80ba948857191af0eb5425
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uC544\uB77C\uBE44\uC548\uBCA0\uC77C.spr"
     m_ReadOnly: 0
@@ -50236,6 +51646,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Cutins
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da2791d83198ec14984948ed21a97e66
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_lady_tanee.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: da297618d41538340a39806773358363
     m_Address: Assets/Sprites/Imported/Collections/Diamond_Ring.png
@@ -50290,6 +51706,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Minimap
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da61ea496db334d42be30594b0583e7f
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBB34\uC2AC\uB9BC\uC5EC\uC790\uBAA8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: da6259352fb3bea4aac16d6f5c9797bb
     m_Address: Assets/Sprites/Imported/Collections/cardart_Yao_Jun_Card.png
@@ -50573,6 +51995,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db890cb726d23da47be72adeab703c14
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c10\uD559\uB144\uD48D\uC120.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: db89edd9a56f0d24b9e0891d40d9e5b2
     m_Address: Assets/Sprites/Imported/Collections/Nose_Ring.png
     m_ReadOnly: 0
@@ -50681,6 +52109,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc0ef0bbfd132d941834a694cdf0fa5b
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB9AC\uD2C0\uD398\uB354\uD587.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: dc19423043ac8654686e701e74e39ae8
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_medium_wave_bd.spr"
     m_ReadOnly: 0
@@ -50698,6 +52132,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Cutins
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc3248880c74e4c4da2a3f90b406ed86
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBA54\uBAA8\uB9AC\uC624\uBE0C\uB7EC\uBC84\uC2A4.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: dc37de0f8b67fb140bb6f89c7cb66376
     m_Address: Assets/Maps/minimap/moc_fild04_walkmask.png
@@ -50781,6 +52221,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc9ba89f103859549b24ef0e04c6897d
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD3EC\uB9C1\uD3B8\uC9C0.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: dca4a0304b0504f459d74dea8700507c
     m_Address: Assets/Sprites/Npcs/4_f_rebellion3.spr
@@ -50988,6 +52434,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ddd9efdba12fb104ca453c4616ea6f07
     m_Address: "Assets/Sprites/Characters/BodyFemale/\uC250\uB3C4\uC6B0\uCCB4\uC774\uC11C_\uC5EC.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dde2fbf9caf76984e8e4415c2bdb53a1
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC0C8\uD558\uC580\uBFD4.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -51304,6 +52756,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df3e1b18ddd6cf84f9e209655b607401
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD138\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: df3e9f1338aa25d4ea2611f74bb4bc81
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC30D\uC5B4\uAD81\uBCF4\uAD00.spr"
     m_ReadOnly: 0
@@ -51324,6 +52782,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: df525700a042f8842aed4b218e0cf0ff
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uC0AC\uC545\uD55C\uB9C8\uCE6D\uD587.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df54b448c1f1afa46b99492c21ade532
+    m_Address: "Assets/Sprites/Characters/BodyMale/\uC5B4\uC138\uC2E0_\uB0A8.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -51574,6 +53038,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e05564b708d098749b551a7d1416c49b
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC8FC\uD669\uC0C9\uD560\uB85C\uC708\uD587.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e06be8d219971884daccb793721233f8
     m_Address: Assets/Maps/minimap/yuno_fild03.png
     m_ReadOnly: 0
@@ -51585,6 +53055,18 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Cutins
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e06fd6794dd6f594796a5537203e2a1b
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uAE4C\uB9CC\uB9AC\uBCF8\uBA38\uB9AC\uB760.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0778b588b2468748b6a7e744748b11c
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC11C\uC804\uD06C\uB85C\uC2A4.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e07a0c0762d9584438a8573104afccb4
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uC11C\uD050\uBC84\uC2A4\uBFD4.spr"
@@ -52791,6 +54273,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5b80f608172adc4bbd0a2093f6ae196
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uCD08\uB85D\uB354\uB4EC\uC774.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e5bb84a4fdf6dcc4a95c256980f5e515
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uAC80\uC740\uD1A0\uB07C\uBAA8\uC790.spr"
     m_ReadOnly: 0
@@ -53181,6 +54669,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Effect
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7143d2fb37d70f4eb437c8e7a435bb5
+    m_Address: "Assets/Sprites/Characters/BodyMale/\uC131\uC9C1\uC790_\uB0A8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e71c091b865405d4483c0f4df5aac42a
     m_Address: Assets/Maps/minimap/c_tower4.png
     m_ReadOnly: 0
@@ -53252,6 +54746,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e776f33624785aa4ca6cf16df8dd4374
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB450\uAC74.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e77a65c8f02cae14cb70609707a21308
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB2CC\uC790\uC758\uB450\uB8E8\uB9C8\uB9AC.spr"
@@ -53369,6 +54869,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e7f40287b7c41e947bcc7b63e28e135e
     m_Address: Assets/Sprites/Npcs/metaller.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7f92e24590ba614ab6c55bf2f307d4f
+    m_Address: "Assets/Sprites/Headgear/Male/\uC5EC_\uAC80\uC740\uB9C8\uB140\uC758\uBAA8\uC790.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -53690,6 +55196,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e954036cca9122843b4190876001edfc
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBB34\uC18D\uC778\uC758\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e9572fb2b0c21c943915cdec702abf85
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uD654\uB824\uD55C\uD32C\uD140\uB9C8\uC2A4\uD06C.spr"
     m_ReadOnly: 0
@@ -53773,6 +55285,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Minimap
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9a9616338b187a4eb2fb751fa77529c
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uD30C\uB791\uD138\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e9ac684b6fa94e84eb1a72b958a6aad0
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB09C\uCD08\uBA38\uB9AC\uB760.spr"
@@ -53882,11 +55400,23 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea047f6eb621e8d4cabc736dbd211165
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD398\uCF54\uD398\uCF54\uBA38\uB9AC\uB760.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ea1a117759bf6d942b120375a79d99c5
     m_Address: Assets/Sprites/Cutins/gl_himel1.png
     m_ReadOnly: 0
     m_SerializedLabels:
     - Cutins
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea1a37d88ea6dbd4e9d5a2b79deb21a2
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC751\uC6D0\uC6A9\uD638\uB8E8\uB77C\uAE30.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ea1b35de676a4b6489e709ba7a141be4
     m_Address: Assets/Sprites/Imported/Collections/cardart_Willow_Card.png
@@ -54205,6 +55735,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb85b8c361fee4d4185d959e18247249
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uAE43\uD138\uBCA0\uB808\uBAA8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: eb88749c4267f8c489b31436beee551a
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uCC9C\uCCB4\uC11C\uD074.spr"
     m_ReadOnly: 0
@@ -54240,6 +55776,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebbe40262efaa8a46b5e29b61086233f
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_rwc2010\uC778\uB3C4\uB124\uC2DC\uC544.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ebcadce03c7f4c14899e00b11607a193
     m_Address: "Assets/Sprites/Shields/Crusader/Female/\uD06C\uB8E8\uC138\uC774\uB354_F_28902_\uBC29\uD328.spr"
@@ -54336,6 +55878,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Minimap
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec262ab463d428f4297df5a4b14abde1
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_salusalo\uAE30\uB150\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ec2c4d69b94a9cd489f689dcf1413bf2
     m_Address: "Assets/Sprites/Characters/BodyMale/oboro_\uB0A8.spr"
@@ -54576,6 +56124,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed2cd29ff9be6644b8a9fbf78a4eeed0
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_whale_cap.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ed3676f3224dc9d4ea084674d3b5c465
     m_Address: Assets/Sprites/Npcs/4_m_snowman_g.spr
@@ -55026,6 +56580,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Collections
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eedff65593b301e4aae5d938ecee151e
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBB3C\uC758\uB2C8\uD2B8\uCEA1.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: eee01e07c5c299640a5c012a036b3f34
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uB9AC\uBCF8_\uC8FC\uD64D.spr"
@@ -55663,6 +57223,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Cutins
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1fe9eb2f33da534e91ca5d01c1335e3
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_iro\uD50C\uB798\uADF8\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f2049e8bad6041c46b6a774114f2ee86
     m_Address: Assets/Sprites/Npcs/ambernite.spr
     m_ReadOnly: 0
@@ -55711,6 +57277,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2499394fd41f7f4c884b53826c1db85
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_cherry_ribbon.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f252a733ad0c727488d79e0e692f5993
     m_Address: Assets/Sprites/Cutins/valen_arle01.png
     m_ReadOnly: 0
@@ -55752,6 +57324,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Minimap
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f28114fe33d49f245879b05270406af9
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c_white_cat_on_shoulder.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f29ede1b3c8eba54782b0d385ce400a7
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uB9C8\uB8EC\uBC84\uB2C8\uBC34\uB4DC.spr"
@@ -56193,6 +57771,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f4968f95157247b46963f97e576b73ac
     m_Address: "Assets/Sprites/Effects/\uD3EC\uB9C1\uCE74\uD2B8_\uBBF8\uB2C8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f497b937028bf844098a670b5594cfc3
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC720\uB7FD\uC57C\uAD6C\uBAA8\uC790.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
@@ -56959,6 +58543,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7bbed8738ef4364b8f897334cae816e
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBC15\uC560\uC758\uC218\uD638.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f7bfc51f5cb027a4db17bb062f6f7ddf
     m_Address: Assets/Sprites/Imported/Collections/Angry_Snarl.png
     m_ReadOnly: 0
@@ -57138,6 +58728,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Cutins
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8b1111d2a1dac84b95a49335301b073
+    m_Address: "Assets/Sprites/Characters/BodyMale/\uC0AC\uC790\uB85C\uC584\uAC00\uB4DC_\uB0A8.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f8b6576ae4e497649850483ad9d5236b
     m_Address: Assets/Sprites/Monsters/soldier_andre.spr
@@ -57493,6 +59089,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Collections
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa76fea870017404495549f8c71ff244
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uC816\uC18C\uBAA8\uC790.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fa80e7f8aeea1284194921f9591e7511
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uACE0\uB300\uC758\uAE08\uC7A5\uC2DD.spr"
     m_ReadOnly: 0
@@ -57667,11 +59269,23 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb50cd8453be2d54997ad965db1c0f81
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uD14C\uC77C\uD587.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fb59be5710e1fab44bb142e369dc8359
     m_Address: Assets/Sprites/Cutins/hair_f_22.png
     m_ReadOnly: 0
     m_SerializedLabels:
     - Cutins
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb59ee833fff907488de2cbad36b3d07
+    m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uBE44\uB808\uD0C0.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fb5c8b62d711a4c488a0a0aca86de2e8
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_side_pigtail_om.spr"
@@ -58320,6 +59934,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sprite
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fdf21f19e81528140bb006b143870393
+    m_Address: Assets/Sprites/Monsters/majoruros.spr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fdf5855b7d6af4848816eb26cb5a8dee
     m_Address: Assets/Sprites/Imported/Collections/Elemental_Converter_Earth.png
     m_ReadOnly: 0
@@ -58361,6 +59981,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Minimap
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe10a6ede03b51940b214c8ea111629b
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBD09\uD669\uAD00.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fe1837719b01cc247992f8c906825b18
     m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_c\uD074\uB798\uC2DC\uCEEC\uD398\uB354\uD587.spr"
@@ -58538,6 +60164,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fee16a3459102854e8e585eb7f4f4a53
     m_Address: "Assets/Sprites/Headgear/Male/\uB0A8_\uC624\uBC84\uD504\uB85C\uD14D\uD130.spr"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fee8ada3b933ce142811752ff985fb36
+    m_Address: "Assets/Sprites/Headgear/Female/\uC5EC_\uBBF8\uB2C8\uD06C\uB77C\uC6B41.spr"
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sprite
