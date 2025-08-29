@@ -363,5 +363,5 @@ Duration: [SkillLevel * 30] seconds.
 //----------------Ninja-------------------
 
 ::NinjaMastery
-<color=#444444>1Increase sitting SP regeneration.</color>
+<color=#444444>Increase sitting SP regeneration.</color>
 SP Increase: <color=#444444>[3 * SkillLevel] every 10 seconds</color>
