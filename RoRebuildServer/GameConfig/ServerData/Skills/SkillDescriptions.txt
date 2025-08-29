@@ -250,6 +250,16 @@ Success rate: [4 + SkillLevel * 6]% chance.
 ::BackSlide
 Immediately jump backwards 5 tiles, based on the direction you're currently facing.
 
+//----------------Ninja-------------------
+
+::NinjaAura
+<color=#444444>Temporarily increase STR and INT.</color>
+Duration: <color=#444444>[15 + (15 * SkillLevel)] seconds.</color>
+Cast Time: <color=#444444>[6 - SkillLevel] seconds.
+STR: <color=#444444>1 * SkillLevel</color>
+IN: <color=#444444>1 * SkillLevel</color> 
+
+
 //----------------Merchant-------------------
 
 ::EnlargeWeightLimit

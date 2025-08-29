@@ -351,3 +351,10 @@ Name = "Stolen From"
 Type = "Debuff"
 CanDisable = false
 CanDispel = false
+
+[NinjaAura]
+Name = "Ninja Aura"
+Type = "Buff"
+Icon = "i_nen"
+CanDisable = true
+CanDispel = false
