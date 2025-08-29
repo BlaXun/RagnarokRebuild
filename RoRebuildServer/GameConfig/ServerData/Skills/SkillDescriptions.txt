@@ -252,6 +252,12 @@ Immediately jump backwards 5 tiles, baRagased on the direction you're currently 
 
 //----------------Ninja-------------------
 
+::ShadowLeap
+<color=#444444>Instantly move to the target cell provided the cell is reachable, e.g. not blocked by impassible terrain.</color>
+Sp Cost: <color=#444444>10</color>
+Cast Delay: <color=#444444>1 second</color>
+Max. Leap Distance: <color=#444444>[5 + SkillLevel] cells</color>
+
 ::NinjaMastery
 <color=#444444>Increase sitting SP regeneration.</color>
 SP Increase: <color=#444444>[3 * SkillLevel] every 10 seconds</color>
@@ -404,11 +410,3 @@ Strike the earth with a powerful hammer swing that has a [20 + SkillLvl * 10]% c
 ::AdrenalineRush
 Increases attack speed with axes and maces, reducing the delay between attacks by 30% for yourself and 25% for party members. 
 Duration: [SkillLevel * 30] seconds.
-
-//----------------Ninja-------------------
-
-::ShadowLeap
-<color=#444444>Instantly move to the target cell provided the cell is reachable, e.g. not blocked by impassible terrain.</color>
-Sp Cost: <color=#444444>10</color>
-Cast Delay: <color=#444444>1 second</color>
-Max. Leap Distance: <color=#444444>[5 + SkillLevel] cells</color>
