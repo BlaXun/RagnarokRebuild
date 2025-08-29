@@ -236,7 +236,6 @@ public class MapWalkData
         return true;
     }
 
-
     public bool HasDirectPathAccess(Position pos1, Position pos2)
     {
         var x0 = pos1.X;

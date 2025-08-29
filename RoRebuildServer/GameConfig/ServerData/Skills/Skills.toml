@@ -497,6 +497,13 @@ MaxLevel = 5
 SpCost = [20,30,40,50,60]
 AdjustableLevel = true
 
+[ShadowLeap]
+Name = "Shadow Leap"
+Icon = "nj_shadowjump"
+Target = "Ground"
+MaxLevel = 5
+SpCost = [10,10,10,10,10]
+
 #----------------------------------
 # Merchant
 #----------------------------------
