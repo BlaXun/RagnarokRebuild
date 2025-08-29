@@ -22,6 +22,26 @@ public class StatusCicadaSkinShed : StatusEffectBase
     
     public override StatusUpdateMode UpdateMode => StatusUpdateMode.OnCalculateDamageTaken | StatusUpdateMode.OnUpdate;
 
+    public override void OnApply(CombatEntity ch, ref StatusEffectState state) {
+        switch (state.Value1) {
+            case 1:
+            case 2:
+                remainingEvasions = 1;
+                break;
+            
+            case 3:
+            case 4:
+                remainingEvasions = 2;
+                break;
+            case 5:
+                remainingEvasions = 3;
+                break;
+        }
+        
+        if (ch.Character.State != CharacterState.Dead)
+            ch.Character.State = CharacterState.Idle;
+    }
+    
     //Value1: Skill level
 
     public override StatusUpdateResult OnCalculateDamage(CombatEntity ch, ref StatusEffectState state,
@@ -29,7 +49,9 @@ public class StatusCicadaSkinShed : StatusEffectBase
         // Cancel out any physical attack and perform backslide
         if (req.Flags.HasFlag(AttackFlags.Physical)) {
             PerformEvasion(ch, info.Source, info.IsIndirect);
-            return StatusUpdateResult.EndStatus;
+            info.SetAttackToMiss();
+            if (remainingEvasions <= 0 || ch.Character.State == CharacterState.Dead)
+                return StatusUpdateResult.EndStatus;
         }
         
         return StatusUpdateResult.Continue;
@@ -60,7 +82,6 @@ public class StatusCicadaSkinShed : StatusEffectBase
 
         // Inform all users near to the caster about the movement 
         CommandBuilder.SendMoveEntityMulti(skillUser);
-        CommandBuilder.SkillExecuteSelfTargetedSkill(skillUser, CharacterSkill.BackSlide, 1, isIndirect);
         CommandBuilder.ClearRecipients();
     }
 
@@ -71,25 +92,5 @@ public class StatusCicadaSkinShed : StatusEffectBase
             return StatusUpdateResult.EndStatus;
 
         return StatusUpdateResult.Continue;
-    }
-
-    public override void OnApply(CombatEntity ch, ref StatusEffectState state) {
-    switch (state.Value1) {
-            case 1:
-            case 2:
-                remainingEvasions = 1;
-                break;
-            
-            case 3:
-            case 4:
-                remainingEvasions = 2;
-                break;
-            case 5:
-                remainingEvasions = 3;
-                break;
-        }
-        
-        if (ch.Character.State != CharacterState.Dead)
-            ch.Character.State = CharacterState.Idle;
     }
 }

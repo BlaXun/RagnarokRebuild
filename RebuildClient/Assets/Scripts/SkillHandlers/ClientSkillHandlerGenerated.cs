@@ -81,7 +81,7 @@ namespace Assets.Scripts.SkillHandlers
 			handlers[64] = new DefaultSkillHandler();
 			handlers[65] = new Assets.Scripts.SkillHandlers.Handlers.HidingHandler();
 			handlers[66] = new DefaultSkillHandler();
-			handlers[67] = new DefaultSkillHandler();
+			handlers[67] = new Assets.Scripts.SkillHandlers.Handlers.CicadaSkinShedHandler();
 			handlers[68] = new DefaultSkillHandler();
 			handlers[69] = new DefaultSkillHandler();
 			handlers[70] = new DefaultSkillHandler();
