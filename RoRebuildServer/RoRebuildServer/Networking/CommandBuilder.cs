@@ -556,6 +556,14 @@ public static class CommandBuilder
         NetworkManager.SendMessageMulti(packet, recipients);
     }
 
+    /// <summary>
+    /// Commands the caster to perform the given self-targeted skill while
+    /// also inform all players visible to the caster about the skill use
+    /// </summary>
+    /// <param name="caster">The user of the skill</param>
+    /// <param name="skill">The skill that is being used</param>
+    /// <param name="lvl">The level of the used skill</param>
+    /// <param name="isIndirect">Wether the skill was indirect (triggered) or actively used by the caster</param>
     public static void SkillExecuteSelfTargetedSkillAutoVis(WorldObject caster, CharacterSkill skill, int lvl, bool isIndirect)
     {
         caster.Map?.AddVisiblePlayersAsPacketRecipients(caster);

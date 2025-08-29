@@ -146,3 +146,6 @@ You've had something recently taken and cannot be stolen from again.
 
 ::AdminHide
 You cannot be seen and you cannot be targeted.
+
+::CicadaSkinShed
+You will evade physical attacks 

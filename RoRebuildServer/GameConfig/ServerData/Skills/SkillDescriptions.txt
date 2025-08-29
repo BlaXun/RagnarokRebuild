@@ -252,6 +252,17 @@ Immediately jump backwards 5 tiles, baRagased on the direction you're currently 
 
 //----------------Ninja-------------------
 
+::NinjaMastery
+<color=#444444>Increase sitting SP regeneration.</color>
+SP Increase: <color=#444444>[3 * SkillLevel] every 10 seconds</color>
+
+::CicadaSkinShed
+<color=#444444>Temporarily nullify physical attacks that would damage the user. When damage is nullified, the user is knocked back.</color>
+Sp Cost: <color=#444444>[9 + SkillLevel * 3]</color>
+Duration: <color=#444444>10 seconds + [10 * SkillLevel] seconds</color>
+Nullifies: <color=#444444>floor((Skill Level + 1) / 2)</color>
+Knockback: <color=#444444>7 cells</color>
+
 ::FreezingSpear
 Summons icy spears to strike a single target multiple times, where each spear will inflict 70% Water property magic damage.
 Cast Time: [0.7 * SkillLevel] seconds.
@@ -383,9 +394,3 @@ Strike the earth with a powerful hammer swing that has a [20 + SkillLvl * 10]% c
 ::AdrenalineRush
 Increases attack speed with axes and maces, reducing the delay between attacks by 30% for yourself and 25% for party members. 
 Duration: [SkillLevel * 30] seconds.
-
-//----------------Ninja-------------------
-
-::NinjaMastery
-<color=#444444>Increase sitting SP regeneration.</color>
-SP Increase: <color=#444444>[3 * SkillLevel] every 10 seconds</color>

@@ -351,3 +351,10 @@ Name = "Stolen From"
 Type = "Debuff"
 CanDisable = false
 CanDispel = false
+
+[CicadaSkinShed]
+Name = "Cicada Skin Shed"
+Type = "Buff"
+Icon = "i_maemi"
+CanDispel = false
+CanDisable = false
