@@ -100,11 +100,12 @@ internal class DataLoader
 
         var entries = csv.GetRecords<CsvExpChart>().ToList();
 
-        var chart = new ExpChart { ExpRequired = new int[100], JobExpRequired = new int[2 * 70] };
+        var chart = new ExpChart { ExpRequired = new int[100], JobExpRequired = new int[3 * 70] };
 
         chart.ExpRequired[0] = 0; //should always be true but why not!
         chart.JobExpRequired[0] = -1;
         chart.JobExpRequired[70] = -1;
+        chart.JobExpRequired[140] = -1;
 
         foreach (var e in entries)
         {
@@ -130,6 +131,7 @@ internal class DataLoader
                 continue;
             chart.JobExpRequired[e.JobLvl] = e.Novice;
             chart.JobExpRequired[70 + e.JobLvl] = e.FirstJob;
+            chart.JobExpRequired[140 + e.JobLvl] = e.SecondJob;
         }
 
         return chart;
@@ -232,6 +234,8 @@ internal class DataLoader
             var job = new JobInfo() {
                 Id = entry.Id,
                 Class = entry.Class,
+                MaxJobLevel = entry.MaxJobLevel,
+                ExpChart = entry.ExpChart,
                 WeaponTimings = timing
             };
 
@@ -304,7 +308,7 @@ internal class DataLoader
         foreach (var (id, tree) in skillTreeData)
         {
             var jobId = DataManager.JobIdLookup[id];
-
+            
             var treeData = tree.SkillTree;
             if (treeData == null)
                 treeData = new();
@@ -313,7 +317,7 @@ internal class DataLoader
             {
                 JobId = jobId,
                 JobRank = tree.JobRank,
-
+            
                 SkillTree = treeData
             });
 
@@ -322,7 +326,24 @@ internal class DataLoader
         }
 
         foreach (var (job, prereq) in parentList)
+        {
             treeOut[job].Parent = treeOut[prereq];
+        }
+
+        //calculate how many skill points a job will have from previous jobs
+        foreach (var (jobId, tree) in treeOut)
+        {
+            var p = tree.Parent;
+            var skillPoints = 0;
+            while (p != null)
+            {
+                var job = DataManager.JobInfo[p.JobId];
+                skillPoints += job.MaxJobLevel - 1;
+                p = p.Parent;
+            }
+
+            tree.PrereqSkillPoints = skillPoints;
+        }
 
         return treeOut.AsReadOnly();
     }
@@ -776,8 +797,7 @@ internal class DataLoader
 
         Span<int> tempTable = stackalloc int[AMOUNT_OF_STATS];
 
-        int maxJobs = entries.Count + 1;
-        
+        int maxJobs = DataManager.JobInfo.Count;
         var fullBonusTable = new int[maxJobs * MAX_JOB_LEVELS * AMOUNT_OF_STATS]; //70 levels for maxJobs jobs with 6 stats each level
         foreach (var entry in entries)
         {
